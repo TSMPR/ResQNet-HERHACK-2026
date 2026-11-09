@@ -1,0 +1,9 @@
+incident_id,area,latitude,longitude,category,status,reported_at
+R001,Sample Central,17.385,78.4867,Road accident,Unverified,2026-10-01 09:10
+R002,Sample Central,17.386,78.4872,Medical,Unverified,2026-10-01 10:15
+R003,Lake View Demo,17.420,78.450,Flood,Closed demo record,2026-10-02 07:30
+R004,Tech Park Demo,17.440,78.380,Infrastructure,Unverified,2026-10-02 13:00
+R005,Market Circle Demo,17.405,78.490,Fire,Unverified,2026-10-03 18:20
+R006,University Lane Demo,17.360,78.520,Road accident,Unverified,2026-10-04 21:00
+R007,University Lane Demo,17.361,78.521,Infrastructure,Unverified,2026-10-05 08:00
+R008,Lake View Demo,17.421,78.451,Flood,Unverified,2026-10-05 06:45
