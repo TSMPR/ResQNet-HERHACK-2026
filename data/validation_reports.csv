@@ -1,0 +1,865 @@
+﻿report_id,text,language,category,source,synthetic,event_group,variant_id
+RQN-005034,తదుపరి సమాచారం: సిటీ ఆసుపత్రి సమీపంలో మొబైల్ టవర్కు భూకంపం వల్ల నష్టం జరిగి ఉండవచ్చు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_30,2
+RQN-004168,నివాసితుల సమాచారం: 12వ వార్డులో తుఫాను ప్రభావం ఉంది; విద్యుత్ అంతరాయం కనిపిస్తోంది. నివాసితులు సహాయం కోరుతున్నారు.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_11,8
+RQN-001555,Community report: Traffic is blocked after a vehicle crash at bus depot.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_15,3
+RQN-002382,Follow-up: A person needs urgent medical help at Central bus station near the main bridge. Further assessment is needed.,en,Medical,synthetic_scenario_generator,True,medical_en_event_28,6
+RQN-003154,कृपया पुष्टि करें: स्कूल परिसर के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_05,2
+RQN-003270,रिपोर्ट: सिटी अस्पताल के पास वार्ड 12 में बिजली की लाइन क्षतिग्रस्त हो गया है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_19,6
+RQN-001063,स्थानीय अपडेट: सामुदायिक केंद्र के पास पहाड़ी बस्ती में आग लगने की सूचना है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_13,7
+RQN-002394,Report: An ambulance may be needed near public school for chest pain. Source requests follow-up.,en,Medical,synthetic_scenario_generator,True,medical_en_event_30,2
+RQN-002860,తదుపరి సమాచారం: నీటి ట్యాంక్ దగ్గర మార్కెట్ ప్రాంతంలో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. నివాసితులు సహాయం కోరుతున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_28,4
+RQN-004269,"స్థానిక అప్‌డేట్: కమ్యూనిటీ కేంద్రం సమీపంలో చాలా బలమైన వాతావరణం, పడిపోయిన కొమ్మలు ఉన్నట్లు సమాచారం. ప్రాంతాన్ని నిర్ధారించాలి.",te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_24,5
+RQN-002104,తదుపరి సమాచారం: ప్రధాన కూడలి సమీపంలో రెండు మోటార్ సైకిళ్లు ఢీకొన్నాయి; ఒక కుటుంబం గాయపడి ఉండవచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_23,8
+RQN-005778,Local update: A situation requiring human assessment has been reported at Riverside colony. Residents are requesting assistance.,en,Other,synthetic_scenario_generator,True,other_en_event_03,2
+RQN-004860,తదుపరి సమాచారం: పాఠశాల ప్రాంగణం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_08,4
+RQN-004574,कृपया पुष्टि करें: गाँव का बाहरी इलाका के आसपास भूकंप के झटके महसूस होने की सूचना है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_02,6
+RQN-000358,कृपया पुष्टि करें: सरकारी स्कूल के पास सड़क पर बाढ़ का पानी बह रहा है। स्थान की पुष्टि आवश्यक है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_15,6
+RQN-000739,Follow-up: Residents report a spreading fire near bus depot. Situation is still being checked.,en,Fire,synthetic_scenario_generator,True,fire_en_event_03,3
+RQN-006128,रिपोर्ट: पूर्वी बाइपास के पास नदी किनारे की कॉलोनी में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: रासायनिक गंध। विवरण की पुष्टि नहीं हुई है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_16,8
+RQN-002398,Information received: An ambulance may be needed near public school for chest pain. Further assessment is needed.,en,Medical,synthetic_scenario_generator,True,medical_en_event_30,6
+RQN-000940,Resident alert: A fire has been reported at Village outskirts near bus depot. Please review this report.,en,Fire,synthetic_scenario_generator,True,fire_en_event_28,4
+RQN-000444,कृपया पुष्टि करें: केंद्रीय बस स्टेशन के आसपास तेज़ बहता पानी भर गया है और स्थानीय लोग फँसे हो सकते हैं। स्थान की पुष्टि आवश्यक है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_26,4
+RQN-000838,Please verify: Residents report a electrical fire near bus depot. Location needs verification.,en,Fire,synthetic_scenario_generator,True,fire_en_event_15,6
+RQN-002095,తదుపరి సమాచారం: ప్రధాన వంతెన దగ్గర బహుళ వాహనాల రోడ్డు ప్రమాదం జరిగింది; రెండు మోటార్ సైకిళ్లు ఉన్నాయి. నివాసితులు సహాయం కోరుతున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_22,7
+RQN-004165,నివేదిక: 12వ వార్డులో తుఫాను ప్రభావం ఉంది; విద్యుత్ అంతరాయం కనిపిస్తోంది. నివాసితులు సహాయం కోరుతున్నారు.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_11,5
+RQN-006341,అత్యవసర సమాచారం: కమ్యూనిటీ కేంద్రం దగ్గర 12వ వార్డులో ప్రజా భద్రతకు సంబంధించిన అసాధారణ పరిస్థితి: గుమిగూడుతున్న జనసమూహం. నివాసితులు సహాయం కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_13,5
+RQN-001002,अनुवर्ती सूचना: मुख्य पुल के पास वाहन में लगी आग दिखाई दे रही है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_06,2
+RQN-002379,Resident alert: A person needs urgent medical help at Central bus station near the main bridge. Source requests follow-up.,en,Medical,synthetic_scenario_generator,True,medical_en_event_28,3
+RQN-002680,అందిన సమాచారం: మార్కెట్ ప్రాంతంలో స్థానిక ప్రజలు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_05,8
+RQN-001308,"అత్యవసర సమాచారం: ప్రధాన కూడలి నుంచి పొగ, మంటలు వస్తున్నాయి; లోపల ఇద్దరు పిల్లలు ఉండవచ్చు.",te,Fire,synthetic_scenario_generator,True,fire_te_event_14,4
+RQN-004333,Emergency note: Residents report an earthquake tremor around Central bus station.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_02,5
+RQN-000166,Local update: The fast-moving has covered the road beside Central bus station. Location needs verification.,en,Flood,synthetic_scenario_generator,True,flood_en_event_21,6
+RQN-005706,స్థానిక అప్‌డేట్: నీటి ట్యాంక్ సమీపంలో కొండ వాలు కూలి కొండ ప్రాంత నివాసం ప్రభావితమైంది. మరింత పరిశీలన అవసరం.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_24,2
+RQN-005556,"స్థానిక అప్‌డేట్: గ్రామ శివారుపై మట్టి, రాళ్లు పడ్డాయి; చాలా మంది నివాసితులు రాకపోకలు నిలిచిపోవచ్చు. నివాసితులు సహాయం కోరుతున్నారు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_05,4
+RQN-003153,अनुवर्ती सूचना: स्कूल परिसर के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। स्थान की पुष्टि आवश्यक है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_05,1
+RQN-005040,అందిన సమాచారం: సిటీ ఆసుపత్రి సమీపంలో మొబైల్ టవర్కు భూకంపం వల్ల నష్టం జరిగి ఉండవచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_30,8
+RQN-005226,Report: Residents report a slope collapse near the railway crossing affecting Industrial zone. Details are unconfirmed.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_24,2
+RQN-003811,Community report: Residents report rain-laden conditions and fallen branches near community centre. Details are unconfirmed.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_27,3
+RQN-004468,Community report: Shaking was felt at Ward 12 near community centre; fallen trees is reported. Source requests follow-up.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_19,4
+RQN-002698,అందిన సమాచారం: నదీ తీర కాలనీలో వృద్ధులు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_08,2
+RQN-000941,Information received: A fire has been reported at Village outskirts near bus depot. Residents are requesting assistance.,en,Fire,synthetic_scenario_generator,True,fire_en_event_28,5
+RQN-002453,समुदाय की सूचना: मुख्य पुल के पास वार्ड 12 में एक व्यक्ति को तुरंत चिकित्सा सहायता चाहिए। स्थान की पुष्टि आवश्यक है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_07,5
+RQN-003778,Resident alert: A severe storm impact is reported at Market area; blocked access is visible. Source requests follow-up.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_23,2
+RQN-003695,Information received: Residents report very strong conditions and fallen branches near public school. Further assessment is needed.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_12,7
+RQN-001553,Local update: Traffic is blocked after a vehicle crash at bus depot. Further assessment is needed.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_15,1
+RQN-002023,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ దగ్గర ద్విచక్ర వాహన రోడ్డు ప్రమాదం జరిగింది; అనేక వాహనాలు ఉన్నాయి. ఈ నివేదికను పరిశీలించండి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_13,7
+RQN-000111,Emergency note: Residents report overflowing water around Ward 12; several residents may be stranded near bus depot. Details are unconfirmed.,en,Flood,synthetic_scenario_generator,True,flood_en_event_14,7
+RQN-003363,తదుపరి సమాచారం: నీటి ట్యాంక్ దగ్గర కొండ ప్రాంత నివాసంలో విద్యుత్ తీగ దెబ్బతింది.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_01,3
+RQN-003091,Local update: A damaged public building is creating a safety concern near canal road. Location needs verification.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_27,3
+RQN-000741,Local update: Residents report a spreading fire near bus depot. Details are unconfirmed.,en,Fire,synthetic_scenario_generator,True,fire_en_event_03,5
+RQN-000631,ప్రజల సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో వరద నీరు ఇళ్లలోకి వస్తోంది. మరింత పరిశీలన అవసరం.,te,Flood,synthetic_scenario_generator,True,flood_te_event_19,7
+RQN-002022,ప్రజల సమాచారం: నీటి ట్యాంక్ దగ్గర ద్విచక్ర వాహన రోడ్డు ప్రమాదం జరిగింది; అనేక వాహనాలు ఉన్నాయి. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_13,6
+RQN-004901,అత్యవసర సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో భూమి కంపించింది; పగిలిన కిటికీలు జరిగినట్లు సమాచారం. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_13,5
+RQN-003921,समुदाय की सूचना: पहाड़ी बस्ती में तूफान का असर है और टूटी खिड़कियाँ दिखाई दे रहा है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_11,1
+RQN-004722,कृपया पुष्टि करें: पूर्वी बाइपास के पास पानी की पाइपलाइन को भूकंप से नुकसान हो सकता है। निवासी सहायता माँग रहे हैं।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_21,2
+RQN-002266,Resident alert: two children are reporting a medical emergency at Village outskirts. Situation is still being checked.,en,Medical,synthetic_scenario_generator,True,medical_en_event_14,2
+RQN-003926,प्राप्त जानकारी: पहाड़ी बस्ती में तूफान का असर है और टूटी खिड़कियाँ दिखाई दे रहा है। आगे जाँच आवश्यक है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_11,6
+RQN-000447,कृपया पुष्टि करें: केंद्रीय बस स्टेशन के आसपास तेज़ बहता पानी भर गया है और स्थानीय लोग फँसे हो सकते हैं। स्रोत ने आगे की जानकारी माँगी है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_26,7
+RQN-005833,Please verify: An unusual public safety concern was reported at Central bus station near municipal office: an unknown obstruction. Please review this report.,en,Other,synthetic_scenario_generator,True,other_en_event_10,1
+RQN-005692,నివేదిక: రైల్వే క్రాసింగ్ దగ్గర వర్షం కారణంగా జరిగిన కొండచరియలు విరిగి రహదారి మూసుకుపోయింది. నివాసితులు సహాయం కోరుతున్నారు.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_22,4
+RQN-003813,Community report: Residents report rain-laden conditions and fallen branches near community centre. Please review this report.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_27,5
+RQN-003267,अनुवर्ती सूचना: सिटी अस्पताल के पास वार्ड 12 में बिजली की लाइन क्षतिग्रस्त हो गया है। स्रोत ने आगे की जानकारी माँगी है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_19,3
+RQN-002451,रिपोर्ट: मुख्य पुल के पास वार्ड 12 में एक व्यक्ति को तुरंत चिकित्सा सहायता चाहिए। विवरण की पुष्टि नहीं हुई है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_07,3
+RQN-003269,अनुवर्ती सूचना: सिटी अस्पताल के पास वार्ड 12 में बिजली की लाइन क्षतिग्रस्त हो गया है। विवरण की पुष्टि नहीं हुई है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_19,5
+RQN-001115,निवासियों की सूचना: केंद्रीय बस स्टेशन से धुआँ और लपटें निकल रही हैं; अंदर कई निवासी हो सकते हैं। स्थान की पुष्टि आवश्यक है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_20,3
+RQN-006479,ప్రజల సమాచారం: కేంద్ర బస్ స్టేషన్లో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_30,7
+RQN-004030,अनुवर्ती सूचना: सिटी अस्पताल के पास तूफानी मौसम और गिरी हुई शाखाओं की सूचना है। आगे जाँच आवश्यक है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_24,6
+RQN-005707,తదుపరి సమాచారం: నీటి ట్యాంక్ సమీపంలో కొండ వాలు కూలి కొండ ప్రాంత నివాసం ప్రభావితమైంది. ఈ నివేదికను పరిశీలించండి.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_24,3
+RQN-000858,Follow-up: Residents report a building fire near community centre. Location needs verification.,en,Fire,synthetic_scenario_generator,True,fire_en_event_18,2
+RQN-000376,अनुवर्ती सूचना: नदी किनारे की कॉलोनी के आसपास टखनों तक भरा पानी भर गया है और यात्री फँसे हो सकते हैं। निवासी सहायता माँग रहे हैं।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_17,8
+RQN-002558,रिपोर्ट: पुराना शहर में कई निवासी ने चिकित्सा आपातकाल की सूचना दी है। स्थिति की जाँच जारी है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_20,6
+RQN-001999,నివాసితుల సమాచారం: తూర్పు బైపాస్ దగ్గర తీవ్రమైన రోడ్డు ప్రమాదం జరిగింది; బస్సు మరియు ఆటోరిక్షా ఉన్నాయి. ప్రాంతాన్ని నిర్ధారించాలి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_10,7
+RQN-003195,स्थानीय अपडेट: सरकारी स्कूल के पास पुराना शहर में मोबाइल टावर क्षतिग्रस्त हो गया है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_10,3
+RQN-001058,समुदाय की सूचना: सामुदायिक केंद्र के पास पहाड़ी बस्ती में आग लगने की सूचना है। विवरण की पुष्टि नहीं हुई है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_13,2
+RQN-002193,Resident alert: two children are reporting a medical emergency at Industrial zone. Residents are requesting assistance.,en,Medical,synthetic_scenario_generator,True,medical_en_event_05,1
+RQN-002702,నివేదిక: నదీ తీర కాలనీలో వృద్ధులు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_08,6
+RQN-005432,अनुवर्ती सूचना: सरकारी स्कूल के पास बारिश से हुआ भूस्खलन से सड़क बंद हो गई है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_19,8
+RQN-003160,निवासियों की सूचना: स्कूल परिसर के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। स्रोत ने आगे की जानकारी माँगी है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_05,8
+RQN-001008,निवासियों की सूचना: मुख्य पुल के पास वाहन में लगी आग दिखाई दे रही है। स्रोत ने आगे की जानकारी माँगी है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_06,8
+RQN-005779,Please verify: A situation requiring human assessment has been reported at Riverside colony. Details are unconfirmed.,en,Other,synthetic_scenario_generator,True,other_en_event_03,3
+RQN-005961,Resident alert: Residents request verification of an incident near municipal office; details: a missing warning sign. Please review this report.,en,Other,synthetic_scenario_generator,True,other_en_event_26,1
+RQN-005691,ప్రజల సమాచారం: రైల్వే క్రాసింగ్ దగ్గర వర్షం కారణంగా జరిగిన కొండచరియలు విరిగి రహదారి మూసుకుపోయింది. ఈ నివేదికను పరిశీలించండి.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_22,3
+RQN-006343,అందిన సమాచారం: కమ్యూనిటీ కేంద్రం దగ్గర 12వ వార్డులో ప్రజా భద్రతకు సంబంధించిన అసాధారణ పరిస్థితి: గుమిగూడుతున్న జనసమూహం. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_13,7
+RQN-001765,प्राप्त जानकारी: औद्योगिक क्षेत्र के पास ट्रक और कार की टक्कर हुई; एक परिवार घायल हो सकते हैं।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_11,5
+RQN-000109,Please verify: Residents report overflowing water around Ward 12; several residents may be stranded near bus depot. Residents are requesting assistance.,en,Flood,synthetic_scenario_generator,True,flood_en_event_14,5
+RQN-005210,Follow-up: A slope failure landslide has blocked the road near community centre. Situation is still being checked.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_22,2
+RQN-001998,స్థానిక అప్‌డేట్: తూర్పు బైపాస్ దగ్గర తీవ్రమైన రోడ్డు ప్రమాదం జరిగింది; బస్సు మరియు ఆటోరిక్షా ఉన్నాయి. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_10,6
+RQN-003541,నివేదిక: పారిశ్రామిక ప్రాంతం ప్రజలు వంతెన రెయిలింగ్ పనిచేయడం లేదని తెలిపారు; రాకపోకలకు ఇబ్బంది కావచ్చు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_23,5
+RQN-006273,దయచేసి నిర్ధారించండి: కమ్యూనిటీ కేంద్రం సమీపంలోని ఘటనను నిర్ధారించాలని ప్రజలు కోరుతున్నారు; వివరాలు: గుర్తు తెలియని ప్రమాదం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Other,synthetic_scenario_generator,True,other_te_event_05,1
+RQN-005673,"అత్యవసర సమాచారం: కొండ ప్రాంత నివాసంపై మట్టి, రాళ్లు పడ్డాయి; వృద్ధులు రాకపోకలు నిలిచిపోవచ్చు. ఈ నివేదికను పరిశీలించండి.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_20,1
+RQN-005557,"నివేదిక: గ్రామ శివారుపై మట్టి, రాళ్లు పడ్డాయి; చాలా మంది నివాసితులు రాకపోకలు నిలిచిపోవచ్చు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_05,5
+RQN-000195,Resident alert: Flood water is entering Hillview settlement near the railway crossing. Location needs verification.,en,Flood,synthetic_scenario_generator,True,flood_en_event_25,3
+RQN-000632,స్థానిక అప్‌డేట్: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో వరద నీరు ఇళ్లలోకి వస్తోంది.,te,Flood,synthetic_scenario_generator,True,flood_te_event_19,8
+RQN-003092,Information received: A damaged public building is creating a safety concern near canal road. Please review this report.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_27,4
+RQN-004266,"నివాసితుల సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలో చాలా బలమైన వాతావరణం, పడిపోయిన కొమ్మలు ఉన్నట్లు సమాచారం. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.",te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_24,2
+RQN-003178,स्थानीय अपडेट: गाँव का बाहरी इलाका के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। स्रोत ने आगे की जानकारी माँगी है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_08,2
+RQN-003011,Community report: Riverside colony residents report a bridge railing failure; access may be affected.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_17,3
+RQN-002092,అత్యవసర సమాచారం: ప్రధాన వంతెన దగ్గర బహుళ వాహనాల రోడ్డు ప్రమాదం జరిగింది; రెండు మోటార్ సైకిళ్లు ఉన్నాయి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_22,4
+RQN-000187,Local update: The waist-deep has covered the road beside Ward 12. Situation is still being checked.,en,Flood,synthetic_scenario_generator,True,flood_en_event_24,3
+RQN-003179,कृपया पुष्टि करें: गाँव का बाहरी इलाका के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। स्थिति की जाँच जारी है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_08,3
+RQN-006475,స్థానిక అప్‌డేట్: కేంద్ర బస్ స్టేషన్లో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_30,3
+RQN-004016,कृपया पुष्टि करें: नगरपालिका कार्यालय के पास गाँव का बाहरी इलाका में तेज़ तूफानी हवाएँ चल रही हैं। स्रोत ने आगे की जानकारी माँगी है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_22,8
+RQN-001689,स्थानीय अपडेट: गाँव का बाहरी इलाका के पास कार और बस की टक्कर हुई; बुज़ुर्ग लोग घायल हो सकते हैं। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_02,1
+RQN-001657,Please verify: A multi-vehicle road accident occurred near public school involving a bus and an auto-rickshaw. Source requests follow-up.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_28,1
+RQN-003544,స్థానిక అప్‌డేట్: పారిశ్రామిక ప్రాంతం ప్రజలు వంతెన రెయిలింగ్ పనిచేయడం లేదని తెలిపారు; రాకపోకలకు ఇబ్బంది కావచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_23,8
+RQN-002462,आपात सूचना: पुराना शहर में यात्री ने चिकित्सा आपातकाल की सूचना दी है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_08,6
+RQN-003815,Report: Residents report rain-laden conditions and fallen branches near community centre.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_27,7
+RQN-003506,స్థానిక అప్‌డేట్: నీటి ట్యాంక్ దగ్గర పారిశ్రామిక ప్రాంతంలో విద్యుత్ తీగ దెబ్బతింది.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_19,2
+RQN-001307,"ప్రజల సమాచారం: ప్రధాన కూడలి నుంచి పొగ, మంటలు వస్తున్నాయి; లోపల ఇద్దరు పిల్లలు ఉండవచ్చు. మరింత పరిశీలన అవసరం.",te,Fire,synthetic_scenario_generator,True,fire_te_event_14,3
+RQN-003571,స్థానిక అప్‌డేట్: రైల్వే క్రాసింగ్ సమీపంలో దెబ్బతిన్న వంతెన రెయిలింగ్ భద్రతా సమస్యగా మారింది. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_27,3
+RQN-001114,आपात सूचना: केंद्रीय बस स्टेशन से धुआँ और लपटें निकल रही हैं; अंदर कई निवासी हो सकते हैं। आगे जाँच आवश्यक है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_20,2
+RQN-004900,స్థానిక అప్‌డేట్: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో భూమి కంపించింది; పగిలిన కిటికీలు జరిగినట్లు సమాచారం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_13,4
+RQN-004475,Information received: Residents report an earthquake tremor around Industrial zone. Situation is still being checked.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_20,3
+RQN-005837,Information received: An unusual public safety concern was reported at Central bus station near municipal office: an unknown obstruction. Please review this report.,en,Other,synthetic_scenario_generator,True,other_en_event_10,5
+RQN-005228,Information received: Residents report a slope collapse near the railway crossing affecting Industrial zone. Situation is still being checked.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_24,4
+RQN-005777,Report: A situation requiring human assessment has been reported at Riverside colony. Please review this report.,en,Other,synthetic_scenario_generator,True,other_en_event_03,1
+RQN-001913,निवासियों की सूचना: पानी की टंकी पर वाहन दुर्घटना के बाद यातायात रुका है। आगे जाँच आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_30,1
+RQN-001994,దయచేసి నిర్ధారించండి: తూర్పు బైపాస్ దగ్గర తీవ్రమైన రోడ్డు ప్రమాదం జరిగింది; బస్సు మరియు ఆటోరిక్షా ఉన్నాయి. ఈ నివేదికను పరిశీలించండి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_10,2
+RQN-004470,Follow-up: Shaking was felt at Ward 12 near community centre; fallen trees is reported. Please review this report.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_19,6
+RQN-001310,"నివేదిక: ప్రధాన కూడలి నుంచి పొగ, మంటలు వస్తున్నాయి; లోపల ఇద్దరు పిల్లలు ఉండవచ్చు. నివాసితులు సహాయం కోరుతున్నారు.",te,Fire,synthetic_scenario_generator,True,fire_te_event_14,6
+RQN-006121,प्राप्त जानकारी: पूर्वी बाइपास के पास नदी किनारे की कॉलोनी में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: रासायनिक गंध। आगे जाँच आवश्यक है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_16,1
+RQN-001552,Follow-up: a car and a bus collided near Hillview settlement; a family may be injured. Location needs verification.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_14,8
+RQN-002704,స్థానిక అప్‌డేట్: నదీ తీర కాలనీలో వృద్ధులు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_08,8
+RQN-003676,Report: Strong storm-force winds are affecting Old town near public school. Location needs verification.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_10,4
+RQN-003015,Emergency note: Riverside colony residents report a bridge railing failure; access may be affected. Location needs verification.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_17,7
+RQN-006179,प्राप्त जानकारी: बस डिपो के पास घटना की पुष्टि करने का अनुरोध है; विवरण: इकट्ठी होती भीड़। आगे जाँच आवश्यक है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_23,3
+RQN-003538,అత్యవసర సమాచారం: పారిశ్రామిక ప్రాంతం ప్రజలు వంతెన రెయిలింగ్ పనిచేయడం లేదని తెలిపారు; రాకపోకలకు ఇబ్బంది కావచ్చు. నివాసితులు సహాయం కోరుతున్నారు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_23,2
+RQN-005834,Please verify: An unusual public safety concern was reported at Central bus station near municipal office: an unknown obstruction. Details are unconfirmed.,en,Other,synthetic_scenario_generator,True,other_en_event_10,2
+RQN-003365,ప్రజల సమాచారం: నీటి ట్యాంక్ దగ్గర కొండ ప్రాంత నివాసంలో విద్యుత్ తీగ దెబ్బతింది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_01,5
+RQN-002672,అందిన సమాచారం: నీటి ట్యాంక్ దగ్గర గ్రామ శివారులో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. ఈ నివేదికను పరిశీలించండి.,te,Medical,synthetic_scenario_generator,True,medical_te_event_04,8
+RQN-003099,Emergency note: A mobile tower has been damaged near water tank at School campus. Further assessment is needed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_28,3
+RQN-004329,Local update: Residents report an earthquake tremor around Central bus station. Situation is still being checked.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_02,1
+RQN-000445,आपात सूचना: केंद्रीय बस स्टेशन के आसपास तेज़ बहता पानी भर गया है और स्थानीय लोग फँसे हो सकते हैं। स्थान की पुष्टि आवश्यक है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_26,5
+RQN-006107,प्राप्त जानकारी: नगरपालिका कार्यालय के पास घटना की पुष्टि करने का अनुरोध है; विवरण: रासायनिक गंध। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Other,synthetic_scenario_generator,True,other_hi_event_14,3
+RQN-004645,कृपया पुष्टि करें: मुख्य चौराहा के आसपास भूकंप के झटके महसूस होने की सूचना है। स्थिति की जाँच जारी है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_11,5
+RQN-004300,తదుపరి సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర ప్రధాన కూడలిలో బలమైన పెను గాలి గాలులు వీస్తున్నాయి. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_28,4
+RQN-002270,Follow-up: two children are reporting a medical emergency at Village outskirts. Details are unconfirmed.,en,Medical,synthetic_scenario_generator,True,medical_en_event_14,6
+RQN-005306,स्थानीय अपडेट: सरकारी स्कूल के पास चट्टान गिरने वाला भूस्खलन से सड़क बंद हो गई है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_04,2
+RQN-004471,Resident alert: Shaking was felt at Ward 12 near community centre; fallen trees is reported. Details are unconfirmed.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_19,7
+RQN-002679,ప్రజల సమాచారం: మార్కెట్ ప్రాంతంలో స్థానిక ప్రజలు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. ప్రాంతాన్ని నిర్ధారించాలి.,te,Medical,synthetic_scenario_generator,True,medical_te_event_05,7
+RQN-001539,Emergency note: A head-on road accident occurred near the main bridge involving a bus and an auto-rickshaw. Please review this report.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_13,3
+RQN-005676,"స్థానిక అప్‌డేట్: కొండ ప్రాంత నివాసంపై మట్టి, రాళ్లు పడ్డాయి; వృద్ధులు రాకపోకలు నిలిచిపోవచ్చు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_20,4
+RQN-004466,Information received: Shaking was felt at Ward 12 near community centre; fallen trees is reported. Source requests follow-up.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_19,2
+RQN-004330,Resident alert: Residents report an earthquake tremor around Central bus station. Residents are requesting assistance.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_02,2
+RQN-000835,Information received: Residents report a electrical fire near bus depot. Source requests follow-up.,en,Fire,synthetic_scenario_generator,True,fire_en_event_15,3
+RQN-004058,अनुवर्ती सूचना: नगरपालिका कार्यालय के पास बाज़ार क्षेत्र में तेज़ तेज़ गति की हवाएँ चल रही हैं। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_28,2
+RQN-004164,నివాసితుల సమాచారం: 12వ వార్డులో తుఫాను ప్రభావం ఉంది; విద్యుత్ అంతరాయం కనిపిస్తోంది. మరింత పరిశీలన అవసరం.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_11,4
+RQN-003696,Local update: Residents report very strong conditions and fallen branches near public school. Location needs verification.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_12,8
+RQN-000508,అందిన సమాచారం: ప్రధాన వంతెన దగ్గర 12వ వార్డులో వరద నీరు ఇళ్లలోకి వస్తోంది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_04,4
+RQN-000191,Please verify: The waist-deep has covered the road beside Ward 12. Source requests follow-up.,en,Flood,synthetic_scenario_generator,True,flood_en_event_24,7
+RQN-006276,నివేదిక: కమ్యూనిటీ కేంద్రం సమీపంలోని ఘటనను నిర్ధారించాలని ప్రజలు కోరుతున్నారు; వివరాలు: గుర్తు తెలియని ప్రమాదం.,te,Other,synthetic_scenario_generator,True,other_te_event_05,4
+RQN-005311,आपात सूचना: सरकारी स्कूल के पास चट्टान गिरने वाला भूस्खलन से सड़क बंद हो गई है। स्थिति की जाँच जारी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_04,7
+RQN-005796,Local update: Residents request verification of an incident near municipal office; details: a damaged public fixture. Residents are requesting assistance.,en,Other,synthetic_scenario_generator,True,other_en_event_05,4
+RQN-000435,रिपोर्ट: नगरपालिका कार्यालय के पास पुराना शहर में बाढ़ का पानी घुस रहा है। विवरण की पुष्टि नहीं हुई है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_25,3
+RQN-000507,ప్రజల సమాచారం: ప్రధాన వంతెన దగ్గర 12వ వార్డులో వరద నీరు ఇళ్లలోకి వస్తోంది.,te,Flood,synthetic_scenario_generator,True,flood_te_event_04,3
+RQN-001734,आपात सूचना: रेलवे क्रॉसिंग के पास कई वाहनों की सड़क दुर्घटना हुई है; ट्रक और कार शामिल हैं। आगे जाँच आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_07,6
+RQN-002861,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ దగ్గర మార్కెట్ ప్రాంతంలో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_28,5
+RQN-001997,స్థానిక అప్‌డేట్: తూర్పు బైపాస్ దగ్గర తీవ్రమైన రోడ్డు ప్రమాదం జరిగింది; బస్సు మరియు ఆటోరిక్షా ఉన్నాయి. ప్రాంతాన్ని నిర్ధారించాలి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_10,5
+RQN-001424,ప్రజల సమాచారం: తూర్పు బైపాస్ దగ్గర కొండ ప్రాంత నివాసంలో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. ఈ నివేదికను పరిశీలించండి.,te,Fire,synthetic_scenario_generator,True,fire_te_event_28,8
+RQN-004647,रिपोर्ट: मुख्य चौराहा के आसपास भूकंप के झटके महसूस होने की सूचना है। निवासी सहायता माँग रहे हैं।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_11,7
+RQN-003678,Resident alert: Strong storm-force winds are affecting Old town near public school. Situation is still being checked.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_10,6
+RQN-000664,ప్రజల సమాచారం: ప్రధాన కూడలి చుట్టూ బురదతో కూడిన నీరు చేరింది; వృద్ధులు చిక్కుకుని ఉండవచ్చు. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_23,8
+RQN-001661,Community report: A multi-vehicle road accident occurred near public school involving a bus and an auto-rickshaw. Source requests follow-up.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_28,5
+RQN-005309,कृपया पुष्टि करें: सरकारी स्कूल के पास चट्टान गिरने वाला भूस्खलन से सड़क बंद हो गई है। स्थान की पुष्टि आवश्यक है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_04,5
+RQN-002703,ప్రజల సమాచారం: నదీ తీర కాలనీలో వృద్ధులు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. ఈ నివేదికను పరిశీలించండి.,te,Medical,synthetic_scenario_generator,True,medical_te_event_08,7
+RQN-000620,స్థానిక అప్‌డేట్: మున్సిపల్ కార్యాలయం పక్కన రోడ్డుపై వరద నీరు ప్రవహిస్తోంది. మరింత పరిశీలన అవసరం.,te,Flood,synthetic_scenario_generator,True,flood_te_event_18,4
+RQN-002460,स्थानीय अपडेट: पुराना शहर में यात्री ने चिकित्सा आपातकाल की सूचना दी है। स्थिति की जाँच जारी है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_08,4
+RQN-001658,Community report: A multi-vehicle road accident occurred near public school involving a bus and an auto-rickshaw. Location needs verification.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_28,2
+RQN-000859,Follow-up: Residents report a building fire near community centre. Please review this report.,en,Fire,synthetic_scenario_generator,True,fire_en_event_18,3
+RQN-001694,समुदाय की सूचना: गाँव का बाहरी इलाका के पास कार और बस की टक्कर हुई; बुज़ुर्ग लोग घायल हो सकते हैं। विवरण की पुष्टि नहीं हुई है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_02,6
+RQN-001537,Resident alert: A head-on road accident occurred near the main bridge involving a bus and an auto-rickshaw. Source requests follow-up.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_13,1
+RQN-004569,प्राप्त जानकारी: गाँव का बाहरी इलाका के आसपास भूकंप के झटके महसूस होने की सूचना है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_02,1
+RQN-001013,समुदाय की सूचना: नहर सड़क के पास पहाड़ी बस्ती में आग लगने की सूचना है। निवासी सहायता माँग रहे हैं।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_07,5
+RQN-005305,निवासियों की सूचना: सरकारी स्कूल के पास चट्टान गिरने वाला भूस्खलन से सड़क बंद हो गई है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_04,1
+RQN-004816,నివేదిక: కొండ ప్రాంత నివాసం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_02,8
+RQN-003512,నివేదిక: నీటి ట్యాంక్ దగ్గర పారిశ్రామిక ప్రాంతంలో విద్యుత్ తీగ దెబ్బతింది.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_19,8
+RQN-003922,निवासियों की सूचना: पहाड़ी बस्ती में तूफान का असर है और टूटी खिड़कियाँ दिखाई दे रहा है। निवासी सहायता माँग रहे हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_11,2
+RQN-003265,समुदाय की सूचना: सिटी अस्पताल के पास वार्ड 12 में बिजली की लाइन क्षतिग्रस्त हो गया है। विवरण की पुष्टि नहीं हुई है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_19,1
+RQN-001119,प्राप्त जानकारी: केंद्रीय बस स्टेशन से धुआँ और लपटें निकल रही हैं; अंदर कई निवासी हो सकते हैं। स्रोत ने आगे की जानकारी माँगी है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_20,7
+RQN-001010,निवासियों की सूचना: नहर सड़क के पास पहाड़ी बस्ती में आग लगने की सूचना है। स्रोत ने आगे की जानकारी माँगी है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_07,2
+RQN-002676,అత్యవసర సమాచారం: మార్కెట్ ప్రాంతంలో స్థానిక ప్రజలు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. ఈ నివేదికను పరిశీలించండి.,te,Medical,synthetic_scenario_generator,True,medical_te_event_05,4
+RQN-006476,నివాసితుల సమాచారం: కేంద్ర బస్ స్టేషన్లో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది.,te,Other,synthetic_scenario_generator,True,other_te_event_30,4
+RQN-004028,निवासियों की सूचना: सिटी अस्पताल के पास तूफानी मौसम और गिरी हुई शाखाओं की सूचना है। निवासी सहायता माँग रहे हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_24,4
+RQN-000163,Information received: The fast-moving has covered the road beside Central bus station. Details are unconfirmed.,en,Flood,synthetic_scenario_generator,True,flood_en_event_21,3
+RQN-006050,आपात सूचना: बस डिपो के पास वार्ड 12 में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: अज्ञात खतरा। निवासी सहायता माँग रहे हैं।,hi,Other,synthetic_scenario_generator,True,other_hi_event_07,2
+RQN-000834,Report: Residents report a electrical fire near bus depot. Source requests follow-up.,en,Fire,synthetic_scenario_generator,True,fire_en_event_15,2
+RQN-004027,कृपया पुष्टि करें: सिटी अस्पताल के पास तूफानी मौसम और गिरी हुई शाखाओं की सूचना है। विवरण की पुष्टि नहीं हुई है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_24,3
+RQN-001544,Report: A head-on road accident occurred near the main bridge involving a bus and an auto-rickshaw. Further assessment is needed.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_13,8
+RQN-004491,Follow-up: Shaking was felt at Riverside colony near municipal office; power disruption is reported.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_22,3
+RQN-002697,స్థానిక అప్‌డేట్: నదీ తీర కాలనీలో వృద్ధులు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_08,1
+RQN-005430,कृपया पुष्टि करें: सरकारी स्कूल के पास बारिश से हुआ भूस्खलन से सड़क बंद हो गई है। स्रोत ने आगे की जानकारी माँगी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_19,6
+RQN-002019,తదుపరి సమాచారం: నీటి ట్యాంక్ దగ్గర ద్విచక్ర వాహన రోడ్డు ప్రమాదం జరిగింది; అనేక వాహనాలు ఉన్నాయి. ప్రాంతాన్ని నిర్ధారించాలి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_13,3
+RQN-005129,Report: Residents report a slope collapse near community centre affecting School campus. Please review this report.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_12,1
+RQN-001542,Emergency note: A head-on road accident occurred near the main bridge involving a bus and an auto-rickshaw. Location needs verification.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_13,6
+RQN-004116,స్థానిక అప్‌డేట్: కేంద్ర బస్ స్టేషన్లో తుఫాను ప్రభావం ఉంది; పడిపోయిన చెట్లు కనిపిస్తోంది. మరింత పరిశీలన అవసరం.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_05,4
+RQN-002925,Emergency note: A damaged bridge railing is creating a safety concern near the main bridge.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_06,5
+RQN-006109,समुदाय की सूचना: नगरपालिका कार्यालय के पास घटना की पुष्टि करने का अनुरोध है; विवरण: रासायनिक गंध। विवरण की पुष्टि नहीं हुई है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_14,5
+RQN-005502,आपात सूचना: बस डिपो के पास बड़ा भूस्खलन से सड़क बंद हो गई है। स्रोत ने आगे की जानकारी माँगी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_28,6
+RQN-003096,Report: A damaged public building is creating a safety concern near canal road. Situation is still being checked.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_27,8
+RQN-004297,నివేదిక: మున్సిపల్ కార్యాలయం దగ్గర ప్రధాన కూడలిలో బలమైన పెను గాలి గాలులు వీస్తున్నాయి.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_28,1
+RQN-002553,समुदाय की सूचना: पुराना शहर में कई निवासी ने चिकित्सा आपातकाल की सूचना दी है। स्थान की पुष्टि आवश्यक है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_20,1
+RQN-004013,निवासियों की सूचना: नगरपालिका कार्यालय के पास गाँव का बाहरी इलाका में तेज़ तूफानी हवाएँ चल रही हैं। निवासी सहायता माँग रहे हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_22,5
+RQN-002666,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ దగ్గర గ్రామ శివారులో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. ఈ నివేదికను పరిశీలించండి.,te,Medical,synthetic_scenario_generator,True,medical_te_event_04,2
+RQN-001421,తదుపరి సమాచారం: తూర్పు బైపాస్ దగ్గర కొండ ప్రాంత నివాసంలో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం.,te,Fire,synthetic_scenario_generator,True,fire_te_event_28,5
+RQN-000505,నివాసితుల సమాచారం: ప్రధాన వంతెన దగ్గర 12వ వార్డులో వరద నీరు ఇళ్లలోకి వస్తోంది. ఈ నివేదికను పరిశీలించండి.,te,Flood,synthetic_scenario_generator,True,flood_te_event_04,1
+RQN-005264,Follow-up: A slope failure landslide has blocked the road near bus depot. Location needs verification.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_28,8
+RQN-001015,प्राप्त जानकारी: नहर सड़क के पास पहाड़ी बस्ती में आग लगने की सूचना है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_07,7
+RQN-000740,Emergency note: Residents report a spreading fire near bus depot. Situation is still being checked.,en,Fire,synthetic_scenario_generator,True,fire_en_event_03,4
+RQN-000833,Report: Residents report a electrical fire near bus depot.,en,Fire,synthetic_scenario_generator,True,fire_en_event_15,1
+RQN-002464,प्राप्त जानकारी: पुराना शहर में यात्री ने चिकित्सा आपातकाल की सूचना दी है। विवरण की पुष्टि नहीं हुई है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_08,8
+RQN-003368,నివేదిక: నీటి ట్యాంక్ దగ్గర కొండ ప్రాంత నివాసంలో విద్యుత్ తీగ దెబ్బతింది. ఈ నివేదికను పరిశీలించండి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_01,8
+RQN-003925,आपात सूचना: पहाड़ी बस्ती में तूफान का असर है और टूटी खिड़कियाँ दिखाई दे रहा है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_11,5
+RQN-003009,Follow-up: Riverside colony residents report a bridge railing failure; access may be affected. Location needs verification.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_17,1
+RQN-004811,తదుపరి సమాచారం: కొండ ప్రాంత నివాసం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_02,3
+RQN-003266,प्राप्त जानकारी: सिटी अस्पताल के पास वार्ड 12 में बिजली की लाइन क्षतिग्रस्त हो गया है। स्थान की पुष्टि आवश्यक है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_19,2
+RQN-002677,అత్యవసర సమాచారం: మార్కెట్ ప్రాంతంలో స్థానిక ప్రజలు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. నివాసితులు సహాయం కోరుతున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_05,5
+RQN-000937,Community report: A fire has been reported at Village outskirts near bus depot. Residents are requesting assistance.,en,Fire,synthetic_scenario_generator,True,fire_en_event_28,1
+RQN-005797,Information received: Residents request verification of an incident near municipal office; details: a damaged public fixture. Details are unconfirmed.,en,Other,synthetic_scenario_generator,True,other_en_event_05,5
+RQN-000510,ప్రజల సమాచారం: ప్రధాన వంతెన దగ్గర 12వ వార్డులో వరద నీరు ఇళ్లలోకి వస్తోంది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_04,6
+RQN-005310,स्थानीय अपडेट: सरकारी स्कूल के पास चट्टान गिरने वाला भूस्खलन से सड़क बंद हो गई है। स्थिति की जाँच जारी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_04,6
+RQN-004857,తదుపరి సమాచారం: పాఠశాల ప్రాంగణం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. మరింత పరిశీలన అవసరం.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_08,1
+RQN-003101,Emergency note: A mobile tower has been damaged near water tank at School campus. Further assessment is needed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_28,5
+RQN-001014,अनुवर्ती सूचना: नहर सड़क के पास पहाड़ी बस्ती में आग लगने की सूचना है। स्थान की पुष्टि आवश्यक है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_07,6
+RQN-000196,Report: Flood water is entering Hillview settlement near the railway crossing. Source requests follow-up.,en,Flood,synthetic_scenario_generator,True,flood_en_event_25,4
+RQN-001351,అత్యవసర సమాచారం: రైల్వే క్రాసింగ్ దగ్గర కేంద్ర బస్ స్టేషన్లో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. ఈ నివేదికను పరిశీలించండి.,te,Fire,synthetic_scenario_generator,True,fire_te_event_19,7
+RQN-006480,అందిన సమాచారం: కేంద్ర బస్ స్టేషన్లో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Other,synthetic_scenario_generator,True,other_te_event_30,8
+RQN-004010,समुदाय की सूचना: नगरपालिका कार्यालय के पास गाँव का बाहरी इलाका में तेज़ तूफानी हवाएँ चल रही हैं। विवरण की पुष्टि नहीं हुई है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_22,2
+RQN-003691,Report: Residents report very strong conditions and fallen branches near public school. Further assessment is needed.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_12,3
+RQN-000188,Local update: The waist-deep has covered the road beside Ward 12. Further assessment is needed.,en,Flood,synthetic_scenario_generator,True,flood_en_event_24,4
+RQN-000436,निवासियों की सूचना: नगरपालिका कार्यालय के पास पुराना शहर में बाढ़ का पानी घुस रहा है। आगे जाँच आवश्यक है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_25,4
+RQN-003694,Information received: Residents report very strong conditions and fallen branches near public school. Further assessment is needed.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_12,6
+RQN-000190,Local update: The waist-deep has covered the road beside Ward 12. Situation is still being checked.,en,Flood,synthetic_scenario_generator,True,flood_en_event_24,6
+RQN-000448,स्थानीय अपडेट: केंद्रीय बस स्टेशन के आसपास तेज़ बहता पानी भर गया है और स्थानीय लोग फँसे हो सकते हैं।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_26,8
+RQN-002421,रिपोर्ट: साँस लेने में कठिनाई के कारण सिटी अस्पताल के पास एम्बुलेंस की आवश्यकता हो सकती है। निवासी सहायता माँग रहे हैं।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_03,5
+RQN-003539,తదుపరి సమాచారం: పారిశ్రామిక ప్రాంతం ప్రజలు వంతెన రెయిలింగ్ పనిచేయడం లేదని తెలిపారు; రాకపోకలకు ఇబ్బంది కావచ్చు. నివాసితులు సహాయం కోరుతున్నారు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_23,3
+RQN-005312,अनुवर्ती सूचना: सरकारी स्कूल के पास चट्टान गिरने वाला भूस्खलन से सड़क बंद हो गई है। स्रोत ने आगे की जानकारी माँगी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_04,8
+RQN-006473,అందిన సమాచారం: కేంద్ర బస్ స్టేషన్లో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_30,1
+RQN-005436,समुदाय की सूचना: पहाड़ी बस्ती पर मिट्टी और पत्थर आ गए हैं; एक परिवार का संपर्क कट सकता है। निवासी सहायता माँग रहे हैं।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_20,4
+RQN-005035,నివేదిక: సిటీ ఆసుపత్రి సమీపంలో మొబైల్ టవర్కు భూకంపం వల్ల నష్టం జరిగి ఉండవచ్చు. నివాసితులు సహాయం కోరుతున్నారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_30,3
+RQN-001003,समुदाय की सूचना: मुख्य पुल के पास वाहन में लगी आग दिखाई दे रही है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_06,3
+RQN-000168,Local update: The fast-moving has covered the road beside Central bus station. Further assessment is needed.,en,Flood,synthetic_scenario_generator,True,flood_en_event_21,8
+RQN-003570,ప్రజల సమాచారం: రైల్వే క్రాసింగ్ సమీపంలో దెబ్బతిన్న వంతెన రెయిలింగ్ భద్రతా సమస్యగా మారింది. మరింత పరిశీలన అవసరం.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_27,2
+RQN-006052,निवासियों की सूचना: बस डिपो के पास वार्ड 12 में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: अज्ञात खतरा। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Other,synthetic_scenario_generator,True,other_hi_event_07,4
+RQN-002863,నివాసితుల సమాచారం: నీటి ట్యాంక్ దగ్గర మార్కెట్ ప్రాంతంలో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_28,7
+RQN-005434,प्राप्त जानकारी: पहाड़ी बस्ती पर मिट्टी और पत्थर आ गए हैं; एक परिवार का संपर्क कट सकता है। स्रोत ने आगे की जानकारी माँगी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_20,2
+RQN-000942,Local update: A fire has been reported at Village outskirts near bus depot. Further assessment is needed.,en,Fire,synthetic_scenario_generator,True,fire_en_event_28,6
+RQN-003509,నివాసితుల సమాచారం: నీటి ట్యాంక్ దగ్గర పారిశ్రామిక ప్రాంతంలో విద్యుత్ తీగ దెబ్బతింది. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_19,5
+RQN-004061,स्थानीय अपडेट: नगरपालिका कार्यालय के पास बाज़ार क्षेत्र में तेज़ तेज़ गति की हवाएँ चल रही हैं। विवरण की पुष्टि नहीं हुई है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_28,5
+RQN-001423,స్థానిక అప్‌డేట్: తూర్పు బైపాస్ దగ్గర కొండ ప్రాంత నివాసంలో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Fire,synthetic_scenario_generator,True,fire_te_event_28,7
+RQN-002093,నివేదిక: ప్రధాన వంతెన దగ్గర బహుళ వాహనాల రోడ్డు ప్రమాదం జరిగింది; రెండు మోటార్ సైకిళ్లు ఉన్నాయి. నివాసితులు సహాయం కోరుతున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_22,5
+RQN-004167,అందిన సమాచారం: 12వ వార్డులో తుఫాను ప్రభావం ఉంది; విద్యుత్ అంతరాయం కనిపిస్తోంది. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_11,7
+RQN-003197,कृपया पुष्टि करें: सरकारी स्कूल के पास पुराना शहर में मोबाइल टावर क्षतिग्रस्त हो गया है। विवरण की पुष्टि नहीं हुई है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_10,5
+RQN-000944,Emergency note: A fire has been reported at Village outskirts near bus depot. Further assessment is needed.,en,Fire,synthetic_scenario_generator,True,fire_en_event_28,8
+RQN-002557,रिपोर्ट: पुराना शहर में कई निवासी ने चिकित्सा आपातकाल की सूचना दी है। स्थान की पुष्टि आवश्यक है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_20,5
+RQN-002424,कृपया पुष्टि करें: साँस लेने में कठिनाई के कारण सिटी अस्पताल के पास एम्बुलेंस की आवश्यकता हो सकती है। आगे जाँच आवश्यक है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_03,8
+RQN-006344,నివాసితుల సమాచారం: కమ్యూనిటీ కేంద్రం దగ్గర 12వ వార్డులో ప్రజా భద్రతకు సంబంధించిన అసాధారణ పరిస్థితి: గుమిగూడుతున్న జనసమూహం. నివాసితులు సహాయం కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_13,8
+RQN-000624,అత్యవసర సమాచారం: మున్సిపల్ కార్యాలయం పక్కన రోడ్డుపై వరద నీరు ప్రవహిస్తోంది. మరింత పరిశీలన అవసరం.,te,Flood,synthetic_scenario_generator,True,flood_te_event_18,8
+RQN-002455,प्राप्त जानकारी: मुख्य पुल के पास वार्ड 12 में एक व्यक्ति को तुरंत चिकित्सा सहायता चाहिए। स्थान की पुष्टि आवश्यक है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_07,7
+RQN-001663,Community report: A multi-vehicle road accident occurred near public school involving a bus and an auto-rickshaw. Further assessment is needed.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_28,7
+RQN-004271,"నివేదిక: కమ్యూనిటీ కేంద్రం సమీపంలో చాలా బలమైన వాతావరణం, పడిపోయిన కొమ్మలు ఉన్నట్లు సమాచారం. ప్రాంతాన్ని నిర్ధారించాలి.",te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_24,7
+RQN-005710,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ సమీపంలో కొండ వాలు కూలి కొండ ప్రాంత నివాసం ప్రభావితమైంది. నివాసితులు సహాయం కోరుతున్నారు.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_24,6
+RQN-000199,Emergency note: Flood water is entering Hillview settlement near the railway crossing. Situation is still being checked.,en,Flood,synthetic_scenario_generator,True,flood_en_event_25,7
+RQN-000857,Please verify: Residents report a building fire near community centre. Details are unconfirmed.,en,Fire,synthetic_scenario_generator,True,fire_en_event_18,1
+RQN-005215,Please verify: A slope failure landslide has blocked the road near community centre. Residents are requesting assistance.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_22,7
+RQN-001117,अनुवर्ती सूचना: केंद्रीय बस स्टेशन से धुआँ और लपटें निकल रही हैं; अंदर कई निवासी हो सकते हैं। निवासी सहायता माँग रहे हैं।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_20,5
+RQN-003511,స్థానిక అప్‌డేట్: నీటి ట్యాంక్ దగ్గర పారిశ్రామిక ప్రాంతంలో విద్యుత్ తీగ దెబ్బతింది. నివాసితులు సహాయం కోరుతున్నారు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_19,7
+RQN-001691,कृपया पुष्टि करें: गाँव का बाहरी इलाका के पास कार और बस की टक्कर हुई; बुज़ुर्ग लोग घायल हो सकते हैं।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_02,3
+RQN-003677,Information received: Strong storm-force winds are affecting Old town near public school. Situation is still being checked.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_10,5
+RQN-004810,నివేదిక: కొండ ప్రాంత నివాసం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. ప్రాంతాన్ని నిర్ధారించాలి.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_02,2
+RQN-002928,Report: A damaged bridge railing is creating a safety concern near the main bridge. Residents are requesting assistance.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_06,8
+RQN-005559,"తదుపరి సమాచారం: గ్రామ శివారుపై మట్టి, రాళ్లు పడ్డాయి; చాలా మంది నివాసితులు రాకపోకలు నిలిచిపోవచ్చు. వివరాలు ఇంకా నిర్ధారించలేదు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_05,7
+RQN-005307,प्राप्त जानकारी: सरकारी स्कूल के पास चट्टान गिरने वाला भूस्खलन से सड़क बंद हो गई है। स्थिति की जाँच जारी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_04,3
+RQN-005965,Local update: Residents request verification of an incident near municipal office; details: a missing warning sign. Situation is still being checked.,en,Other,synthetic_scenario_generator,True,other_en_event_26,5
+RQN-000106,Report: Residents report overflowing water around Ward 12; several residents may be stranded near bus depot. Situation is still being checked.,en,Flood,synthetic_scenario_generator,True,flood_en_event_14,2
+RQN-001558,Report: Traffic is blocked after a vehicle crash at bus depot. Further assessment is needed.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_15,6
+RQN-005836,Report: An unusual public safety concern was reported at Central bus station near municipal office: an unknown obstruction. Residents are requesting assistance.,en,Other,synthetic_scenario_generator,True,other_en_event_10,4
+RQN-005438,प्राप्त जानकारी: पहाड़ी बस्ती पर मिट्टी और पत्थर आ गए हैं; एक परिवार का संपर्क कट सकता है। स्थान की पुष्टि आवश्यक है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_20,6
+RQN-002383,Information received: A person needs urgent medical help at Central bus station near the main bridge. Residents are requesting assistance.,en,Medical,synthetic_scenario_generator,True,medical_en_event_28,7
+RQN-002923,Emergency note: A damaged bridge railing is creating a safety concern near the main bridge. Please review this report.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_06,3
+RQN-000860,Information received: Residents report a building fire near community centre.,en,Fire,synthetic_scenario_generator,True,fire_en_event_18,4
+RQN-000360,कृपया पुष्टि करें: सरकारी स्कूल के पास सड़क पर बाढ़ का पानी बह रहा है। स्थान की पुष्टि आवश्यक है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_15,8
+RQN-003089,Emergency note: A damaged public building is creating a safety concern near canal road. Details are unconfirmed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_27,1
+RQN-004029,अनुवर्ती सूचना: सिटी अस्पताल के पास तूफानी मौसम और गिरी हुई शाखाओं की सूचना है। स्थिति की जाँच जारी है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_24,5
+RQN-003198,आपात सूचना: सरकारी स्कूल के पास पुराना शहर में मोबाइल टावर क्षतिग्रस्त हो गया है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_10,6
+RQN-005136,Local update: Residents report a slope collapse near community centre affecting School campus. Further assessment is needed.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_12,8
+RQN-002857,స్థానిక అప్‌డేట్: నీటి ట్యాంక్ దగ్గర మార్కెట్ ప్రాంతంలో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం.,te,Medical,synthetic_scenario_generator,True,medical_te_event_28,1
+RQN-006278,అత్యవసర సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలోని ఘటనను నిర్ధారించాలని ప్రజలు కోరుతున్నారు; వివరాలు: గుర్తు తెలియని ప్రమాదం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Other,synthetic_scenario_generator,True,other_te_event_05,6
+RQN-005033,స్థానిక అప్‌డేట్: సిటీ ఆసుపత్రి సమీపంలో మొబైల్ టవర్కు భూకంపం వల్ల నష్టం జరిగి ఉండవచ్చు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_30,1
+RQN-002461,प्राप्त जानकारी: पुराना शहर में यात्री ने चिकित्सा आपातकाल की सूचना दी है। निवासी सहायता माँग रहे हैं।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_08,5
+RQN-003094,Report: A damaged public building is creating a safety concern near canal road. Further assessment is needed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_27,6
+RQN-002671,అందిన సమాచారం: నీటి ట్యాంక్ దగ్గర గ్రామ శివారులో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం.,te,Medical,synthetic_scenario_generator,True,medical_te_event_04,7
+RQN-002858,ప్రజల సమాచారం: నీటి ట్యాంక్ దగ్గర మార్కెట్ ప్రాంతంలో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. నివాసితులు సహాయం కోరుతున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_28,2
+RQN-002393,Resident alert: An ambulance may be needed near public school for chest pain. Details are unconfirmed.,en,Medical,synthetic_scenario_generator,True,medical_en_event_30,1
+RQN-005709,అత్యవసర సమాచారం: నీటి ట్యాంక్ సమీపంలో కొండ వాలు కూలి కొండ ప్రాంత నివాసం ప్రభావితమైంది. నివాసితులు సహాయం కోరుతున్నారు.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_24,5
+RQN-003090,Community report: A damaged public building is creating a safety concern near canal road. Residents are requesting assistance.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_27,2
+RQN-002921,Local update: A damaged bridge railing is creating a safety concern near the main bridge. Location needs verification.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_06,1
+RQN-004496,Resident alert: Shaking was felt at Riverside colony near municipal office; power disruption is reported. Further assessment is needed.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_22,8
+RQN-005498,रिपोर्ट: बस डिपो के पास बड़ा भूस्खलन से सड़क बंद हो गई है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_28,2
+RQN-001419,దయచేసి నిర్ధారించండి: తూర్పు బైపాస్ దగ్గర కొండ ప్రాంత నివాసంలో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం.,te,Fire,synthetic_scenario_generator,True,fire_te_event_28,3
+RQN-000373,रिपोर्ट: नदी किनारे की कॉलोनी के आसपास टखनों तक भरा पानी भर गया है और यात्री फँसे हो सकते हैं। स्थिति की जाँच जारी है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_17,5
+RQN-004026,कृपया पुष्टि करें: सिटी अस्पताल के पास तूफानी मौसम और गिरी हुई शाखाओं की सूचना है। निवासी सहायता माँग रहे हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_24,2
+RQN-004476,Follow-up: Residents report an earthquake tremor around Industrial zone.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_20,4
+RQN-001543,Community report: A head-on road accident occurred near the main bridge involving a bus and an auto-rickshaw. Residents are requesting assistance.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_13,7
+RQN-006403,స్థానిక అప్‌డేట్: 12వ వార్డులో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_21,3
+RQN-002456,प्राप्त जानकारी: मुख्य पुल के पास वार्ड 12 में एक व्यक्ति को तुरंत चिकित्सा सहायता चाहिए। आगे जाँच आवश्यक है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_07,8
+RQN-005499,अनुवर्ती सूचना: बस डिपो के पास बड़ा भूस्खलन से सड़क बंद हो गई है। स्रोत ने आगे की जानकारी माँगी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_28,3
+RQN-003364,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ దగ్గర కొండ ప్రాంత నివాసంలో విద్యుత్ తీగ దెబ్బతింది. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_01,4
+RQN-002198,Information received: two children are reporting a medical emergency at Industrial zone. Situation is still being checked.,en,Medical,synthetic_scenario_generator,True,medical_en_event_05,6
+RQN-004114,స్థానిక అప్‌డేట్: కేంద్ర బస్ స్టేషన్లో తుఫాను ప్రభావం ఉంది; పడిపోయిన చెట్లు కనిపిస్తోంది. ప్రాంతాన్ని నిర్ధారించాలి.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_05,2
+RQN-000200,Please verify: Flood water is entering Hillview settlement near the railway crossing. Details are unconfirmed.,en,Flood,synthetic_scenario_generator,True,flood_en_event_25,8
+RQN-003100,Information received: A mobile tower has been damaged near water tank at School campus. Details are unconfirmed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_28,4
+RQN-003814,Local update: Residents report rain-laden conditions and fallen branches near community centre. Situation is still being checked.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_27,6
+RQN-006275,అత్యవసర సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలోని ఘటనను నిర్ధారించాలని ప్రజలు కోరుతున్నారు; వివరాలు: గుర్తు తెలియని ప్రమాదం. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_05,3
+RQN-003782,Follow-up: A severe storm impact is reported at Market area; blocked access is visible. Situation is still being checked.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_23,6
+RQN-006112,कृपया पुष्टि करें: नगरपालिका कार्यालय के पास घटना की पुष्टि करने का अनुरोध है; विवरण: रासायनिक गंध। विवरण की पुष्टि नहीं हुई है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_14,8
+RQN-000939,Local update: A fire has been reported at Village outskirts near bus depot. Please review this report.,en,Fire,synthetic_scenario_generator,True,fire_en_event_28,3
+RQN-002665,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ దగ్గర గ్రామ శివారులో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. మరింత పరిశీలన అవసరం.,te,Medical,synthetic_scenario_generator,True,medical_te_event_04,1
+RQN-003576,ప్రజల సమాచారం: రైల్వే క్రాసింగ్ సమీపంలో దెబ్బతిన్న వంతెన రెయిలింగ్ భద్రతా సమస్యగా మారింది. ప్రాంతాన్ని నిర్ధారించాలి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_27,8
+RQN-000161,Report: The fast-moving has covered the road beside Central bus station. Details are unconfirmed.,en,Flood,synthetic_scenario_generator,True,flood_en_event_21,1
+RQN-004063,निवासियों की सूचना: नगरपालिका कार्यालय के पास बाज़ार क्षेत्र में तेज़ तेज़ गति की हवाएँ चल रही हैं। निवासी सहायता माँग रहे हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_28,7
+RQN-005678,"నివాసితుల సమాచారం: కొండ ప్రాంత నివాసంపై మట్టి, రాళ్లు పడ్డాయి; వృద్ధులు రాకపోకలు నిలిచిపోవచ్చు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_20,6
+RQN-004118,అందిన సమాచారం: కేంద్ర బస్ స్టేషన్లో తుఫాను ప్రభావం ఉంది; పడిపోయిన చెట్లు కనిపిస్తోంది. ప్రాంతాన్ని నిర్ధారించాలి.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_05,6
+RQN-004115,నివేదిక: కేంద్ర బస్ స్టేషన్లో తుఫాను ప్రభావం ఉంది; పడిపోయిన చెట్లు కనిపిస్తోంది. నివాసితులు సహాయం కోరుతున్నారు.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_05,3
+RQN-004753,आपात सूचना: सामुदायिक केंद्र के पास केंद्रीय बस स्टेशन में झटके महसूस किए गए; छत को नुकसान की सूचना है। आगे जाँच आवश्यक है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_25,1
+RQN-005711,ప్రజల సమాచారం: నీటి ట్యాంక్ సమీపంలో కొండ వాలు కూలి కొండ ప్రాంత నివాసం ప్రభావితమైంది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_24,7
+RQN-001311,"నివేదిక: ప్రధాన కూడలి నుంచి పొగ, మంటలు వస్తున్నాయి; లోపల ఇద్దరు పిల్లలు ఉండవచ్చు. వివరాలు ఇంకా నిర్ధారించలేదు.",te,Fire,synthetic_scenario_generator,True,fire_te_event_14,7
+RQN-001996,నివేదిక: తూర్పు బైపాస్ దగ్గర తీవ్రమైన రోడ్డు ప్రమాదం జరిగింది; బస్సు మరియు ఆటోరిక్షా ఉన్నాయి. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_10,4
+RQN-002380,Please verify: A person needs urgent medical help at Central bus station near the main bridge. Situation is still being checked.,en,Medical,synthetic_scenario_generator,True,medical_en_event_28,4
+RQN-002020,నివాసితుల సమాచారం: నీటి ట్యాంక్ దగ్గర ద్విచక్ర వాహన రోడ్డు ప్రమాదం జరిగింది; అనేక వాహనాలు ఉన్నాయి. ప్రాంతాన్ని నిర్ధారించాలి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_13,4
+RQN-004759,प्राप्त जानकारी: सामुदायिक केंद्र के पास केंद्रीय बस स्टेशन में झटके महसूस किए गए; छत को नुकसान की सूचना है। स्रोत ने आगे की जानकारी माँगी है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_25,7
+RQN-002017,అత్యవసర సమాచారం: నీటి ట్యాంక్ దగ్గర ద్విచక్ర వాహన రోడ్డు ప్రమాదం జరిగింది; అనేక వాహనాలు ఉన్నాయి. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_13,1
+RQN-005501,स्थानीय अपडेट: बस डिपो के पास बड़ा भूस्खलन से सड़क बंद हो गई है। स्थान की पुष्टि आवश्यक है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_28,5
+RQN-000618,దయచేసి నిర్ధారించండి: మున్సిపల్ కార్యాలయం పక్కన రోడ్డుపై వరద నీరు ప్రవహిస్తోంది. నివాసితులు సహాయం కోరుతున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_18,2
+RQN-003573,నివాసితుల సమాచారం: రైల్వే క్రాసింగ్ సమీపంలో దెబ్బతిన్న వంతెన రెయిలింగ్ భద్రతా సమస్యగా మారింది. ఈ నివేదికను పరిశీలించండి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_27,5
+RQN-004304,నివేదిక: మున్సిపల్ కార్యాలయం దగ్గర ప్రధాన కూడలిలో బలమైన పెను గాలి గాలులు వీస్తున్నాయి.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_28,8
+RQN-006342,అందిన సమాచారం: కమ్యూనిటీ కేంద్రం దగ్గర 12వ వార్డులో ప్రజా భద్రతకు సంబంధించిన అసాధారణ పరిస్థితి: గుమిగూడుతున్న జనసమూహం. నివాసితులు సహాయం కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_13,6
+RQN-001345,తదుపరి సమాచారం: రైల్వే క్రాసింగ్ దగ్గర కేంద్ర బస్ స్టేషన్లో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Fire,synthetic_scenario_generator,True,fire_te_event_19,1
+RQN-005780,Resident alert: A situation requiring human assessment has been reported at Riverside colony. Further assessment is needed.,en,Other,synthetic_scenario_generator,True,other_en_event_03,4
+RQN-000185,Local update: The waist-deep has covered the road beside Ward 12. Please review this report.,en,Flood,synthetic_scenario_generator,True,flood_en_event_24,1
+RQN-003181,निवासियों की सूचना: गाँव का बाहरी इलाका के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। स्रोत ने आगे की जानकारी माँगी है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_08,5
+RQN-002559,समुदाय की सूचना: पुराना शहर में कई निवासी ने चिकित्सा आपातकाल की सूचना दी है। स्रोत ने आगे की जानकारी माँगी है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_20,7
+RQN-005963,Follow-up: Residents request verification of an incident near municipal office; details: a missing warning sign. Further assessment is needed.,en,Other,synthetic_scenario_generator,True,other_en_event_26,3
+RQN-002397,Resident alert: An ambulance may be needed near public school for chest pain. Location needs verification.,en,Medical,synthetic_scenario_generator,True,medical_en_event_30,5
+RQN-000738,Community report: Residents report a spreading fire near bus depot. Source requests follow-up.,en,Fire,synthetic_scenario_generator,True,fire_en_event_03,2
+RQN-005793,Report: Residents request verification of an incident near municipal office; details: a damaged public fixture. Situation is still being checked.,en,Other,synthetic_scenario_generator,True,other_en_event_05,1
+RQN-004012,आपात सूचना: नगरपालिका कार्यालय के पास गाँव का बाहरी इलाका में तेज़ तूफानी हवाएँ चल रही हैं। निवासी सहायता माँग रहे हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_22,4
+RQN-003184,स्थानीय अपडेट: गाँव का बाहरी इलाका के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। विवरण की पुष्टि नहीं हुई है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_08,8
+RQN-001116,कृपया पुष्टि करें: केंद्रीय बस स्टेशन से धुआँ और लपटें निकल रही हैं; अंदर कई निवासी हो सकते हैं। विवरण की पुष्टि नहीं हुई है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_20,4
+RQN-005435,रिपोर्ट: पहाड़ी बस्ती पर मिट्टी और पत्थर आ गए हैं; एक परिवार का संपर्क कट सकता है। निवासी सहायता माँग रहे हैं।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_20,3
+RQN-003366,అందిన సమాచారం: నీటి ట్యాంక్ దగ్గర కొండ ప్రాంత నివాసంలో విద్యుత్ తీగ దెబ్బతింది. నివాసితులు సహాయం కోరుతున్నారు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_01,6
+RQN-005439,अनुवर्ती सूचना: पहाड़ी बस्ती पर मिट्टी और पत्थर आ गए हैं; एक परिवार का संपर्क कट सकता है। स्रोत ने आगे की जानकारी माँगी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_20,7
+RQN-003093,Local update: A damaged public building is creating a safety concern near canal road. Situation is still being checked.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_27,5
+RQN-002197,Community report: two children are reporting a medical emergency at Industrial zone.,en,Medical,synthetic_scenario_generator,True,medical_en_event_05,5
+RQN-005840,Please verify: An unusual public safety concern was reported at Central bus station near municipal office: an unknown obstruction. Further assessment is needed.,en,Other,synthetic_scenario_generator,True,other_en_event_10,8
+RQN-000628,అందిన సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో వరద నీరు ఇళ్లలోకి వస్తోంది.,te,Flood,synthetic_scenario_generator,True,flood_te_event_19,4
+RQN-001916,समुदाय की सूचना: पानी की टंकी पर वाहन दुर्घटना के बाद यातायात रुका है। विवरण की पुष्टि नहीं हुई है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_30,4
+RQN-005257,Follow-up: A slope failure landslide has blocked the road near bus depot. Details are unconfirmed.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_28,1
+RQN-001416,తదుపరి సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలో వాహనంలో వచ్చిన మంటలు కనిపిస్తున్నాయి. మరింత పరిశీలన అవసరం.,te,Fire,synthetic_scenario_generator,True,fire_te_event_27,8
+RQN-000371,स्थानीय अपडेट: नदी किनारे की कॉलोनी के आसपास टखनों तक भरा पानी भर गया है और यात्री फँसे हो सकते हैं। विवरण की पुष्टि नहीं हुई है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_17,3
+RQN-001730,निवासियों की सूचना: रेलवे क्रॉसिंग के पास कई वाहनों की सड़क दुर्घटना हुई है; ट्रक और कार शामिल हैं। स्थिति की जाँच जारी है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_07,2
+RQN-004754,कृपया पुष्टि करें: सामुदायिक केंद्र के पास केंद्रीय बस स्टेशन में झटके महसूस किए गए; छत को नुकसान की सूचना है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_25,2
+RQN-001548,Emergency note: a car and a bus collided near Hillview settlement; a family may be injured. Please review this report.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_14,4
+RQN-003569,తదుపరి సమాచారం: రైల్వే క్రాసింగ్ సమీపంలో దెబ్బతిన్న వంతెన రెయిలింగ్ భద్రతా సమస్యగా మారింది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_27,1
+RQN-005560,"దయచేసి నిర్ధారించండి: గ్రామ శివారుపై మట్టి, రాళ్లు పడ్డాయి; చాలా మంది నివాసితులు రాకపోకలు నిలిచిపోవచ్చు. వివరాలు ఇంకా నిర్ధారించలేదు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_05,8
+RQN-006105,स्थानीय अपडेट: नगरपालिका कार्यालय के पास घटना की पुष्टि करने का अनुरोध है; विवरण: रासायनिक गंध। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Other,synthetic_scenario_generator,True,other_hi_event_14,1
+RQN-004301,దయచేసి నిర్ధారించండి: మున్సిపల్ కార్యాలయం దగ్గర ప్రధాన కూడలిలో బలమైన పెను గాలి గాలులు వీస్తున్నాయి.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_28,5
+RQN-000443,अनुवर्ती सूचना: केंद्रीय बस स्टेशन के आसपास तेज़ बहता पानी भर गया है और स्थानीय लोग फँसे हो सकते हैं। निवासी सहायता माँग रहे हैं।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_26,3
+RQN-003158,अनुवर्ती सूचना: स्कूल परिसर के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_05,6
+RQN-000354,प्राप्त जानकारी: सरकारी स्कूल के पास सड़क पर बाढ़ का पानी बह रहा है। विवरण की पुष्टि नहीं हुई है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_15,2
+RQN-003102,Local update: A mobile tower has been damaged near water tank at School campus.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_28,6
+RQN-000509,ప్రజల సమాచారం: ప్రధాన వంతెన దగ్గర 12వ వార్డులో వరద నీరు ఇళ్లలోకి వస్తోంది. ప్రాంతాన్ని నిర్ధారించాలి.,te,Flood,synthetic_scenario_generator,True,flood_te_event_04,5
+RQN-004726,रिपोर्ट: पूर्वी बाइपास के पास पानी की पाइपलाइन को भूकंप से नुकसान हो सकता है। निवासी सहायता माँग रहे हैं।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_21,6
+RQN-005425,अनुवर्ती सूचना: सरकारी स्कूल के पास बारिश से हुआ भूस्खलन से सड़क बंद हो गई है। निवासी सहायता माँग रहे हैं।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_19,1
+RQN-004576,आपात सूचना: गाँव का बाहरी इलाका के आसपास भूकंप के झटके महसूस होने की सूचना है। आगे जाँच आवश्यक है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_02,8
+RQN-000437,रिपोर्ट: नगरपालिका कार्यालय के पास पुराना शहर में बाढ़ का पानी घुस रहा है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_25,5
+RQN-000357,प्राप्त जानकारी: सरकारी स्कूल के पास सड़क पर बाढ़ का पानी बह रहा है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_15,5
+RQN-003199,आपात सूचना: सरकारी स्कूल के पास पुराना शहर में मोबाइल टावर क्षतिग्रस्त हो गया है। आगे जाँच आवश्यक है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_10,7
+RQN-000192,Community report: The waist-deep has covered the road beside Ward 12. Situation is still being checked.,en,Flood,synthetic_scenario_generator,True,flood_en_event_24,8
+RQN-003816,Report: Residents report rain-laden conditions and fallen branches near community centre. Details are unconfirmed.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_27,8
+RQN-006111,प्राप्त जानकारी: नगरपालिका कार्यालय के पास घटना की पुष्टि करने का अनुरोध है; विवरण: रासायनिक गंध। आगे जाँच आवश्यक है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_14,7
+RQN-001736,रिपोर्ट: रेलवे क्रॉसिंग के पास कई वाहनों की सड़क दुर्घटना हुई है; ट्रक और कार शामिल हैं।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_07,8
+RQN-000627,ప్రజల సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో వరద నీరు ఇళ్లలోకి వస్తోంది. ఈ నివేదికను పరిశీలించండి.,te,Flood,synthetic_scenario_generator,True,flood_te_event_19,3
+RQN-004298,తదుపరి సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర ప్రధాన కూడలిలో బలమైన పెను గాలి గాలులు వీస్తున్నాయి. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_28,2
+RQN-001735,अनुवर्ती सूचना: रेलवे क्रॉसिंग के पास कई वाहनों की सड़क दुर्घटना हुई है; ट्रक और कार शामिल हैं। विवरण की पुष्टि नहीं हुई है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_07,7
+RQN-004572,रिपोर्ट: गाँव का बाहरी इलाका के आसपास भूकंप के झटके महसूस होने की सूचना है। स्थान की पुष्टि आवश्यक है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_02,4
+RQN-002554,निवासियों की सूचना: पुराना शहर में कई निवासी ने चिकित्सा आपातकाल की सूचना दी है। विवरण की पुष्टि नहीं हुई है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_20,2
+RQN-003784,Report: A severe storm impact is reported at Market area; blocked access is visible. Location needs verification.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_23,8
+RQN-001696,कृपया पुष्टि करें: गाँव का बाहरी इलाका के पास कार और बस की टक्कर हुई; बुज़ुर्ग लोग घायल हो सकते हैं। स्थान की पुष्टि आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_02,8
+RQN-006127,रिपोर्ट: पूर्वी बाइपास के पास नदी किनारे की कॉलोनी में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: रासायनिक गंध।,hi,Other,synthetic_scenario_generator,True,other_hi_event_16,7
+RQN-000626,తదుపరి సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో వరద నీరు ఇళ్లలోకి వస్తోంది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_19,2
+RQN-006054,निवासियों की सूचना: बस डिपो के पास वार्ड 12 में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: अज्ञात खतरा। स्थान की पुष्टि आवश्यक है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_07,6
+RQN-004474,Local update: Residents report an earthquake tremor around Industrial zone. Source requests follow-up.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_20,2
+RQN-000167,Please verify: The fast-moving has covered the road beside Central bus station. Residents are requesting assistance.,en,Flood,synthetic_scenario_generator,True,flood_en_event_21,7
+RQN-003157,समुदाय की सूचना: स्कूल परिसर के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। स्रोत ने आगे की जानकारी माँगी है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_05,5
+RQN-005225,Local update: Residents report a slope collapse near the railway crossing affecting Industrial zone. Location needs verification.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_24,1
+RQN-000189,Please verify: The waist-deep has covered the road beside Ward 12. Please review this report.,en,Flood,synthetic_scenario_generator,True,flood_en_event_24,5
+RQN-003924,अनुवर्ती सूचना: पहाड़ी बस्ती में तूफान का असर है और टूटी खिड़कियाँ दिखाई दे रहा है। निवासी सहायता माँग रहे हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_11,4
+RQN-001409,నివేదిక: కమ్యూనిటీ కేంద్రం సమీపంలో వాహనంలో వచ్చిన మంటలు కనిపిస్తున్నాయి. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Fire,synthetic_scenario_generator,True,fire_te_event_27,1
+RQN-005262,Resident alert: A slope failure landslide has blocked the road near bus depot. Location needs verification.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_28,6
+RQN-005693,నివేదిక: రైల్వే క్రాసింగ్ దగ్గర వర్షం కారణంగా జరిగిన కొండచరియలు విరిగి రహదారి మూసుకుపోయింది. ఈ నివేదికను పరిశీలించండి.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_22,5
+RQN-002458,निवासियों की सूचना: पुराना शहर में यात्री ने चिकित्सा आपातकाल की सूचना दी है। विवरण की पुष्टि नहीं हुई है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_08,2
+RQN-001764,प्राप्त जानकारी: औद्योगिक क्षेत्र के पास ट्रक और कार की टक्कर हुई; एक परिवार घायल हो सकते हैं। विवरण की पुष्टि नहीं हुई है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_11,4
+RQN-003510,నివాసితుల సమాచారం: నీటి ట్యాంక్ దగ్గర పారిశ్రామిక ప్రాంతంలో విద్యుత్ తీగ దెబ్బతింది.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_19,6
+RQN-001662,Resident alert: A multi-vehicle road accident occurred near public school involving a bus and an auto-rickshaw. Please review this report.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_28,6
+RQN-005427,समुदाय की सूचना: सरकारी स्कूल के पास बारिश से हुआ भूस्खलन से सड़क बंद हो गई है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_19,3
+RQN-000625,దయచేసి నిర్ధారించండి: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో వరద నీరు ఇళ్లలోకి వస్తోంది. ప్రాంతాన్ని నిర్ధారించాలి.,te,Flood,synthetic_scenario_generator,True,flood_te_event_19,1
+RQN-005209,Follow-up: A slope failure landslide has blocked the road near community centre.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_22,1
+RQN-001113,समुदाय की सूचना: केंद्रीय बस स्टेशन से धुआँ और लपटें निकल रही हैं; अंदर कई निवासी हो सकते हैं। आगे जाँच आवश्यक है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_20,1
+RQN-006405,ప్రజల సమాచారం: 12వ వార్డులో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_21,5
+RQN-004031,समुदाय की सूचना: सिटी अस्पताल के पास तूफानी मौसम और गिरी हुई शाखाओं की सूचना है। विवरण की पुष्टि नहीं हुई है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_24,7
+RQN-001547,Information received: a car and a bus collided near Hillview settlement; a family may be injured. Residents are requesting assistance.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_14,3
+RQN-002195,Information received: two children are reporting a medical emergency at Industrial zone.,en,Medical,synthetic_scenario_generator,True,medical_en_event_05,3
+RQN-000837,Information received: Residents report a electrical fire near bus depot. Residents are requesting assistance.,en,Fire,synthetic_scenario_generator,True,fire_en_event_15,5
+RQN-005555,"తదుపరి సమాచారం: గ్రామ శివారుపై మట్టి, రాళ్లు పడ్డాయి; చాలా మంది నివాసితులు రాకపోకలు నిలిచిపోవచ్చు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_05,3
+RQN-004723,रिपोर्ट: पूर्वी बाइपास के पास पानी की पाइपलाइन को भूकंप से नुकसान हो सकता है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_21,3
+RQN-000630,అత్యవసర సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో వరద నీరు ఇళ్లలోకి వస్తోంది. మరింత పరిశీలన అవసరం.,te,Flood,synthetic_scenario_generator,True,flood_te_event_19,6
+RQN-005968,Local update: Residents request verification of an incident near municipal office; details: a missing warning sign. Situation is still being checked.,en,Other,synthetic_scenario_generator,True,other_en_event_26,8
+RQN-005131,Local update: Residents report a slope collapse near community centre affecting School campus. Further assessment is needed.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_12,3
+RQN-004478,Community report: Residents report an earthquake tremor around Industrial zone. Situation is still being checked.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_20,6
+RQN-000107,Resident alert: Residents report overflowing water around Ward 12; several residents may be stranded near bus depot. Details are unconfirmed.,en,Flood,synthetic_scenario_generator,True,flood_en_event_14,3
+RQN-000355,अनुवर्ती सूचना: सरकारी स्कूल के पास सड़क पर बाढ़ का पानी बह रहा है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_15,3
+RQN-000617,నివేదిక: మున్సిపల్ కార్యాలయం పక్కన రోడ్డుపై వరద నీరు ప్రవహిస్తోంది.,te,Flood,synthetic_scenario_generator,True,flood_te_event_18,1
+RQN-005132,Report: Residents report a slope collapse near community centre affecting School campus. Situation is still being checked.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_12,4
+RQN-004755,आपात सूचना: सामुदायिक केंद्र के पास केंद्रीय बस स्टेशन में झटके महसूस किए गए; छत को नुकसान की सूचना है। स्थिति की जाँच जारी है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_25,3
+RQN-005426,समुदाय की सूचना: सरकारी स्कूल के पास बारिश से हुआ भूस्खलन से सड़क बंद हो गई है। आगे जाँच आवश्यक है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_19,2
+RQN-002096,ప్రజల సమాచారం: ప్రధాన వంతెన దగ్గర బహుళ వాహనాల రోడ్డు ప్రమాదం జరిగింది; రెండు మోటార్ సైకిళ్లు ఉన్నాయి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_22,8
+RQN-005036,అత్యవసర సమాచారం: సిటీ ఆసుపత్రి సమీపంలో మొబైల్ టవర్కు భూకంపం వల్ల నష్టం జరిగి ఉండవచ్చు. ప్రాంతాన్ని నిర్ధారించాలి.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_30,4
+RQN-001349,అత్యవసర సమాచారం: రైల్వే క్రాసింగ్ దగ్గర కేంద్ర బస్ స్టేషన్లో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం.,te,Fire,synthetic_scenario_generator,True,fire_te_event_19,5
+RQN-005260,Information received: A slope failure landslide has blocked the road near bus depot. Residents are requesting assistance.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_28,4
+RQN-006404,నివాసితుల సమాచారం: 12వ వార్డులో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది.,te,Other,synthetic_scenario_generator,True,other_te_event_21,4
+RQN-003680,Local update: Strong storm-force winds are affecting Old town near public school. Please review this report.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_10,8
+RQN-003362,స్థానిక అప్‌డేట్: నీటి ట్యాంక్ దగ్గర కొండ ప్రాంత నివాసంలో విద్యుత్ తీగ దెబ్బతింది. మరింత పరిశీలన అవసరం.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_01,2
+RQN-002463,निवासियों की सूचना: पुराना शहर में यात्री ने चिकित्सा आपातकाल की सूचना दी है। स्रोत ने आगे की जानकारी माँगी है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_08,7
+RQN-005038,అత్యవసర సమాచారం: సిటీ ఆసుపత్రి సమీపంలో మొబైల్ టవర్కు భూకంపం వల్ల నష్టం జరిగి ఉండవచ్చు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_30,6
+RQN-003012,Emergency note: Riverside colony residents report a bridge railing failure; access may be affected. Details are unconfirmed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_17,4
+RQN-005558,"అందిన సమాచారం: గ్రామ శివారుపై మట్టి, రాళ్లు పడ్డాయి; చాలా మంది నివాసితులు రాకపోకలు నిలిచిపోవచ్చు. నివాసితులు సహాయం కోరుతున్నారు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_05,6
+RQN-004809,స్థానిక అప్‌డేట్: కొండ ప్రాంత నివాసం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_02,1
+RQN-003103,Emergency note: A mobile tower has been damaged near water tank at School campus. Details are unconfirmed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_28,7
+RQN-004113,అందిన సమాచారం: కేంద్ర బస్ స్టేషన్లో తుఫాను ప్రభావం ఉంది; పడిపోయిన చెట్లు కనిపిస్తోంది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_05,1
+RQN-001762,स्थानीय अपडेट: औद्योगिक क्षेत्र के पास ट्रक और कार की टक्कर हुई; एक परिवार घायल हो सकते हैं। स्थान की पुष्टि आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_11,2
+RQN-002459,अनुवर्ती सूचना: पुराना शहर में यात्री ने चिकित्सा आपातकाल की सूचना दी है। निवासी सहायता माँग रहे हैं।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_08,3
+RQN-000861,Report: Residents report a building fire near community centre. Please review this report.,en,Fire,synthetic_scenario_generator,True,fire_en_event_18,5
+RQN-004495,Emergency note: Shaking was felt at Riverside colony near municipal office; power disruption is reported. Situation is still being checked.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_22,7
+RQN-002667,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ దగ్గర గ్రామ శివారులో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. మరింత పరిశీలన అవసరం.,te,Medical,synthetic_scenario_generator,True,medical_te_event_04,3
+RQN-000737,Follow-up: Residents report a spreading fire near bus depot. Location needs verification.,en,Fire,synthetic_scenario_generator,True,fire_en_event_03,1
+RQN-003689,Report: Residents report very strong conditions and fallen branches near public school. Please review this report.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_12,1
+RQN-004015,आपात सूचना: नगरपालिका कार्यालय के पास गाँव का बाहरी इलाका में तेज़ तूफानी हवाएँ चल रही हैं। विवरण की पुष्टि नहीं हुई है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_22,7
+RQN-004489,Information received: Shaking was felt at Riverside colony near municipal office; power disruption is reported. Please review this report.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_22,1
+RQN-002678,నివాసితుల సమాచారం: మార్కెట్ ప్రాంతంలో స్థానిక ప్రజలు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. ఈ నివేదికను పరిశీలించండి.,te,Medical,synthetic_scenario_generator,True,medical_te_event_05,6
+RQN-004267,"నివేదిక: కమ్యూనిటీ కేంద్రం సమీపంలో చాలా బలమైన వాతావరణం, పడిపోయిన కొమ్మలు ఉన్నట్లు సమాచారం. ప్రాంతాన్ని నిర్ధారించాలి.",te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_24,3
+RQN-000511,నివాసితుల సమాచారం: ప్రధాన వంతెన దగ్గర 12వ వార్డులో వరద నీరు ఇళ్లలోకి వస్తోంది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_04,7
+RQN-003777,Report: A severe storm impact is reported at Market area; blocked access is visible. Residents are requesting assistance.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_23,1
+RQN-000110,Follow-up: Residents report overflowing water around Ward 12; several residents may be stranded near bus depot. Details are unconfirmed.,en,Flood,synthetic_scenario_generator,True,flood_en_event_14,6
+RQN-000863,Report: Residents report a building fire near community centre. Further assessment is needed.,en,Fire,synthetic_scenario_generator,True,fire_en_event_18,7
+RQN-000506,ప్రజల సమాచారం: ప్రధాన వంతెన దగ్గర 12వ వార్డులో వరద నీరు ఇళ్లలోకి వస్తోంది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_04,2
+RQN-005212,Follow-up: A slope failure landslide has blocked the road near community centre. Residents are requesting assistance.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_22,4
+RQN-002100,ప్రజల సమాచారం: ప్రధాన కూడలి సమీపంలో రెండు మోటార్ సైకిళ్లు ఢీకొన్నాయి; ఒక కుటుంబం గాయపడి ఉండవచ్చు. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_23,4
+RQN-004904,నివేదిక: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో భూమి కంపించింది; పగిలిన కిటికీలు జరిగినట్లు సమాచారం. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_13,8
+RQN-006122,अनुवर्ती सूचना: पूर्वी बाइपास के पास नदी किनारे की कॉलोनी में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: रासायनिक गंध। स्रोत ने आगे की जानकारी माँगी है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_16,2
+RQN-000359,आपात सूचना: सरकारी स्कूल के पास सड़क पर बाढ़ का पानी बह रहा है। विवरण की पुष्टि नहीं हुई है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_15,7
+RQN-004011,निवासियों की सूचना: नगरपालिका कार्यालय के पास गाँव का बाहरी इलाका में तेज़ तूफानी हवाएँ चल रही हैं। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_22,3
+RQN-001346,తదుపరి సమాచారం: రైల్వే క్రాసింగ్ దగ్గర కేంద్ర బస్ స్టేషన్లో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Fire,synthetic_scenario_generator,True,fire_te_event_19,2
+RQN-006110,रिपोर्ट: नगरपालिका कार्यालय के पास घटना की पुष्टि करने का अनुरोध है; विवरण: रासायनिक गंध।,hi,Other,synthetic_scenario_generator,True,other_hi_event_14,6
+RQN-000659,ప్రజల సమాచారం: ప్రధాన కూడలి చుట్టూ బురదతో కూడిన నీరు చేరింది; వృద్ధులు చిక్కుకుని ఉండవచ్చు. మరింత పరిశీలన అవసరం.,te,Flood,synthetic_scenario_generator,True,flood_te_event_23,3
+RQN-002089,నివాసితుల సమాచారం: ప్రధాన వంతెన దగ్గర బహుళ వాహనాల రోడ్డు ప్రమాదం జరిగింది; రెండు మోటార్ సైకిళ్లు ఉన్నాయి. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_22,1
+RQN-005708,నివేదిక: నీటి ట్యాంక్ సమీపంలో కొండ వాలు కూలి కొండ ప్రాంత నివాసం ప్రభావితమైంది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_24,4
+RQN-006406,నివేదిక: 12వ వార్డులో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. ప్రాంతాన్ని నిర్ధారించాలి.,te,Other,synthetic_scenario_generator,True,other_te_event_21,6
+RQN-004897,నివేదిక: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో భూమి కంపించింది; పగిలిన కిటికీలు జరిగినట్లు సమాచారం. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_13,1
+RQN-003016,Local update: Riverside colony residents report a bridge railing failure; access may be affected. Further assessment is needed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_17,8
+RQN-004864,నివాసితుల సమాచారం: పాఠశాల ప్రాంగణం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_08,8
+RQN-005680,"తదుపరి సమాచారం: కొండ ప్రాంత నివాసంపై మట్టి, రాళ్లు పడ్డాయి; వృద్ధులు రాకపోకలు నిలిచిపోవచ్చు. ప్రాంతాన్ని నిర్ధారించాలి.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_20,8
+RQN-000164,Community report: The fast-moving has covered the road beside Central bus station. Source requests follow-up.,en,Flood,synthetic_scenario_generator,True,flood_en_event_21,4
+RQN-001659,Follow-up: A multi-vehicle road accident occurred near public school involving a bus and an auto-rickshaw. Residents are requesting assistance.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_28,3
+RQN-006339,దయచేసి నిర్ధారించండి: కమ్యూనిటీ కేంద్రం దగ్గర 12వ వార్డులో ప్రజా భద్రతకు సంబంధించిన అసాధారణ పరిస్థితి: గుమిగూడుతున్న జనసమూహం. ఈ నివేదికను పరిశీలించండి.,te,Other,synthetic_scenario_generator,True,other_te_event_13,3
+RQN-006108,स्थानीय अपडेट: नगरपालिका कार्यालय के पास घटना की पुष्टि करने का अनुरोध है; विवरण: रासायनिक गंध। आगे जाँच आवश्यक है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_14,4
+RQN-001766,स्थानीय अपडेट: औद्योगिक क्षेत्र के पास ट्रक और कार की टक्कर हुई; एक परिवार घायल हो सकते हैं। निवासी सहायता माँग रहे हैं।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_11,6
+RQN-004472,Resident alert: Shaking was felt at Ward 12 near community centre; fallen trees is reported. Please review this report.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_19,8
+RQN-001415,ప్రజల సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలో వాహనంలో వచ్చిన మంటలు కనిపిస్తున్నాయి. ఈ నివేదికను పరిశీలించండి.,te,Fire,synthetic_scenario_generator,True,fire_te_event_27,7
+RQN-002556,अनुवर्ती सूचना: पुराना शहर में कई निवासी ने चिकित्सा आपातकाल की सूचना दी है। निवासी सहायता माँग रहे हैं।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_20,4
+RQN-002700,స్థానిక అప్‌డేట్: నదీ తీర కాలనీలో వృద్ధులు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. ఈ నివేదికను పరిశీలించండి.,te,Medical,synthetic_scenario_generator,True,medical_te_event_08,4
+RQN-005798,Emergency note: Residents request verification of an incident near municipal office; details: a damaged public fixture. Please review this report.,en,Other,synthetic_scenario_generator,True,other_en_event_05,6
+RQN-006123,रिपोर्ट: पूर्वी बाइपास के पास नदी किनारे की कॉलोनी में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: रासायनिक गंध। स्थिति की जाँच जारी है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_16,3
+RQN-005230,Emergency note: Residents report a slope collapse near the railway crossing affecting Industrial zone. Further assessment is needed.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_24,6
+RQN-005966,Emergency note: Residents request verification of an incident near municipal office; details: a missing warning sign. Details are unconfirmed.,en,Other,synthetic_scenario_generator,True,other_en_event_26,6
+RQN-001731,निवासियों की सूचना: रेलवे क्रॉसिंग के पास कई वाहनों की सड़क दुर्घटना हुई है; ट्रक और कार शामिल हैं। स्थिति की जाँच जारी है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_07,3
+RQN-001006,समुदाय की सूचना: मुख्य पुल के पास वाहन में लगी आग दिखाई दे रही है। विवरण की पुष्टि नहीं हुई है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_06,6
+RQN-006049,निवासियों की सूचना: बस डिपो के पास वार्ड 12 में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: अज्ञात खतरा। आगे जाँच आवश्यक है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_07,1
+RQN-004760,प्राप्त जानकारी: सामुदायिक केंद्र के पास केंद्रीय बस स्टेशन में झटके महसूस किए गए; छत को नुकसान की सूचना है। स्थान की पुष्टि आवश्यक है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_25,8
+RQN-001001,समुदाय की सूचना: मुख्य पुल के पास वाहन में लगी आग दिखाई दे रही है। विवरण की पुष्टि नहीं हुई है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_06,1
+RQN-002418,रिपोर्ट: साँस लेने में कठिनाई के कारण सिटी अस्पताल के पास एम्बुलेंस की आवश्यकता हो सकती है। स्थिति की जाँच जारी है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_03,2
+RQN-006181,स्थानीय अपडेट: बस डिपो के पास घटना की पुष्टि करने का अनुरोध है; विवरण: इकट्ठी होती भीड़। विवरण की पुष्टि नहीं हुई है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_23,5
+RQN-005263,Please verify: A slope failure landslide has blocked the road near bus depot. Details are unconfirmed.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_28,7
+RQN-005962,Information received: Residents request verification of an incident near municipal office; details: a missing warning sign. Residents are requesting assistance.,en,Other,synthetic_scenario_generator,True,other_en_event_26,2
+RQN-004477,Please verify: Residents report an earthquake tremor around Industrial zone. Details are unconfirmed.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_20,5
+RQN-002018,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ దగ్గర ద్విచక్ర వాహన రోడ్డు ప్రమాదం జరిగింది; అనేక వాహనాలు ఉన్నాయి. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_13,2
+RQN-002396,Resident alert: An ambulance may be needed near public school for chest pain.,en,Medical,synthetic_scenario_generator,True,medical_en_event_30,4
+RQN-001347,నివాసితుల సమాచారం: రైల్వే క్రాసింగ్ దగ్గర కేంద్ర బస్ స్టేషన్లో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. ఈ నివేదికను పరిశీలించండి.,te,Fire,synthetic_scenario_generator,True,fire_te_event_19,3
+RQN-004642,स्थानीय अपडेट: मुख्य चौराहा के आसपास भूकंप के झटके महसूस होने की सूचना है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_11,2
+RQN-005130,Please verify: Residents report a slope collapse near community centre affecting School campus. Residents are requesting assistance.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_12,2
+RQN-005835,Follow-up: An unusual public safety concern was reported at Central bus station near municipal office: an unknown obstruction. Residents are requesting assistance.,en,Other,synthetic_scenario_generator,True,other_en_event_10,3
+RQN-004815,స్థానిక అప్‌డేట్: కొండ ప్రాంత నివాసం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_02,7
+RQN-002090,అందిన సమాచారం: ప్రధాన వంతెన దగ్గర బహుళ వాహనాల రోడ్డు ప్రమాదం జరిగింది; రెండు మోటార్ సైకిళ్లు ఉన్నాయి. నివాసితులు సహాయం కోరుతున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_22,2
+RQN-002400,Please verify: An ambulance may be needed near public school for chest pain. Please review this report.,en,Medical,synthetic_scenario_generator,True,medical_en_event_30,8
+RQN-004057,रिपोर्ट: नगरपालिका कार्यालय के पास बाज़ार क्षेत्र में तेज़ तेज़ गति की हवाएँ चल रही हैं। आगे जाँच आवश्यक है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_28,1
+RQN-003013,Resident alert: Riverside colony residents report a bridge railing failure; access may be affected. Further assessment is needed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_17,5
+RQN-004467,Local update: Shaking was felt at Ward 12 near community centre; fallen trees is reported.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_19,3
+RQN-002555,कृपया पुष्टि करें: पुराना शहर में कई निवासी ने चिकित्सा आपातकाल की सूचना दी है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_20,3
+RQN-001009,रिपोर्ट: नहर सड़क के पास पहाड़ी बस्ती में आग लगने की सूचना है। आगे जाँच आवश्यक है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_07,1
+RQN-006126,कृपया पुष्टि करें: पूर्वी बाइपास के पास नदी किनारे की कॉलोनी में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: रासायनिक गंध। स्थान की पुष्टि आवश्यक है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_16,6
+RQN-001993,నివేదిక: తూర్పు బైపాస్ దగ్గర తీవ్రమైన రోడ్డు ప్రమాదం జరిగింది; బస్సు మరియు ఆటోరిక్షా ఉన్నాయి. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_10,1
+RQN-001693,स्थानीय अपडेट: गाँव का बाहरी इलाका के पास कार और बस की टक्कर हुई; बुज़ुर्ग लोग घायल हो सकते हैं। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_02,5
+RQN-000193,Report: Flood water is entering Hillview settlement near the railway crossing. Source requests follow-up.,en,Flood,synthetic_scenario_generator,True,flood_en_event_25,1
+RQN-000661,స్థానిక అప్‌డేట్: ప్రధాన కూడలి చుట్టూ బురదతో కూడిన నీరు చేరింది; వృద్ధులు చిక్కుకుని ఉండవచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Flood,synthetic_scenario_generator,True,flood_te_event_23,5
+RQN-006277,తదుపరి సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలోని ఘటనను నిర్ధారించాలని ప్రజలు కోరుతున్నారు; వివరాలు: గుర్తు తెలియని ప్రమాదం. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_05,5
+RQN-004727,समुदाय की सूचना: पूर्वी बाइपास के पास पानी की पाइपलाइन को भूकंप से नुकसान हो सकता है। निवासी सहायता माँग रहे हैं।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_21,7
+RQN-001560,Resident alert: Traffic is blocked after a vehicle crash at bus depot.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_15,8
+RQN-004812,నివేదిక: కొండ ప్రాంత నివాసం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_02,4
+RQN-001413,తదుపరి సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలో వాహనంలో వచ్చిన మంటలు కనిపిస్తున్నాయి. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Fire,synthetic_scenario_generator,True,fire_te_event_27,5
+RQN-001060,आपात सूचना: सामुदायिक केंद्र के पास पहाड़ी बस्ती में आग लगने की सूचना है। निवासी सहायता माँग रहे हैं।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_13,4
+RQN-003572,దయచేసి నిర్ధారించండి: రైల్వే క్రాసింగ్ సమీపంలో దెబ్బతిన్న వంతెన రెయిలింగ్ భద్రతా సమస్యగా మారింది. ఈ నివేదికను పరిశీలించండి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_27,4
+RQN-005497,रिपोर्ट: बस डिपो के पास बड़ा भूस्खलन से सड़क बंद हो गई है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_28,1
+RQN-001306,"ప్రజల సమాచారం: ప్రధాన కూడలి నుంచి పొగ, మంటలు వస్తున్నాయి; లోపల ఇద్దరు పిల్లలు ఉండవచ్చు. ప్రాంతాన్ని నిర్ధారించాలి.",te,Fire,synthetic_scenario_generator,True,fire_te_event_14,2
+RQN-002024,అందిన సమాచారం: నీటి ట్యాంక్ దగ్గర ద్విచక్ర వాహన రోడ్డు ప్రమాదం జరిగింది; అనేక వాహనాలు ఉన్నాయి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_13,8
+RQN-004758,कृपया पुष्टि करें: सामुदायिक केंद्र के पास केंद्रीय बस स्टेशन में झटके महसूस किए गए; छत को नुकसान की सूचना है। स्थिति की जाँच जारी है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_25,6
+RQN-003183,कृपया पुष्टि करें: गाँव का बाहरी इलाका के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। विवरण की पुष्टि नहीं हुई है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_08,7
+RQN-004469,Local update: Shaking was felt at Ward 12 near community centre; fallen trees is reported. Location needs verification.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_19,5
+RQN-000840,Information received: Residents report a electrical fire near bus depot. Location needs verification.,en,Fire,synthetic_scenario_generator,True,fire_en_event_15,8
+RQN-001919,कृपया पुष्टि करें: पानी की टंकी पर वाहन दुर्घटना के बाद यातायात रुका है। निवासी सहायता माँग रहे हैं।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_30,7
+RQN-003272,निवासियों की सूचना: सिटी अस्पताल के पास वार्ड 12 में बिजली की लाइन क्षतिग्रस्त हो गया है। विवरण की पुष्टि नहीं हुई है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_19,8
+RQN-005712,స్థానిక అప్‌డేట్: నీటి ట్యాంక్ సమీపంలో కొండ వాలు కూలి కొండ ప్రాంత నివాసం ప్రభావితమైంది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_24,8
+RQN-002457,स्थानीय अपडेट: पुराना शहर में यात्री ने चिकित्सा आपातकाल की सूचना दी है। स्रोत ने आगे की जानकारी माँगी है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_08,1
+RQN-000442,कृपया पुष्टि करें: केंद्रीय बस स्टेशन के आसपास तेज़ बहता पानी भर गया है और स्थानीय लोग फँसे हो सकते हैं। स्थान की पुष्टि आवश्यक है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_26,2
+RQN-006338,అందిన సమాచారం: కమ్యూనిటీ కేంద్రం దగ్గర 12వ వార్డులో ప్రజా భద్రతకు సంబంధించిన అసాధారణ పరిస్థితి: గుమిగూడుతున్న జనసమూహం. నివాసితులు సహాయం కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_13,2
+RQN-004117,అందిన సమాచారం: కేంద్ర బస్ స్టేషన్లో తుఫాను ప్రభావం ఉంది; పడిపోయిన చెట్లు కనిపిస్తోంది.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_05,5
+RQN-006183,रिपोर्ट: बस डिपो के पास घटना की पुष्टि करने का अनुरोध है; विवरण: इकट्ठी होती भीड़।,hi,Other,synthetic_scenario_generator,True,other_hi_event_23,7
+RQN-001420,స్థానిక అప్‌డేట్: తూర్పు బైపాస్ దగ్గర కొండ ప్రాంత నివాసంలో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Fire,synthetic_scenario_generator,True,fire_te_event_28,4
+RQN-002097,స్థానిక అప్‌డేట్: ప్రధాన కూడలి సమీపంలో రెండు మోటార్ సైకిళ్లు ఢీకొన్నాయి; ఒక కుటుంబం గాయపడి ఉండవచ్చు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_23,1
+RQN-000512,నివేదిక: ప్రధాన వంతెన దగ్గర 12వ వార్డులో వరద నీరు ఇళ్లలోకి వస్తోంది. నివాసితులు సహాయం కోరుతున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_04,8
+RQN-004025,स्थानीय अपडेट: सिटी अस्पताल के पास तूफानी मौसम और गिरी हुई शाखाओं की सूचना है। निवासी सहायता माँग रहे हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_24,1
+RQN-004162,ప్రజల సమాచారం: 12వ వార్డులో తుఫాను ప్రభావం ఉంది; విద్యుత్ అంతరాయం కనిపిస్తోంది. ప్రాంతాన్ని నిర్ధారించాలి.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_11,2
+RQN-002091,ప్రజల సమాచారం: ప్రధాన వంతెన దగ్గర బహుళ వాహనాల రోడ్డు ప్రమాదం జరిగింది; రెండు మోటార్ సైకిళ్లు ఉన్నాయి. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_22,3
+RQN-005967,Please verify: Residents request verification of an incident near municipal office; details: a missing warning sign.,en,Other,synthetic_scenario_generator,True,other_en_event_26,7
+RQN-003540,స్థానిక అప్‌డేట్: పారిశ్రామిక ప్రాంతం ప్రజలు వంతెన రెయిలింగ్ పనిచేయడం లేదని తెలిపారు; రాకపోకలకు ఇబ్బంది కావచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_23,4
+RQN-000112,Resident alert: Residents report overflowing water around Ward 12; several residents may be stranded near bus depot. Source requests follow-up.,en,Flood,synthetic_scenario_generator,True,flood_en_event_14,8
+RQN-002099,తదుపరి సమాచారం: ప్రధాన కూడలి సమీపంలో రెండు మోటార్ సైకిళ్లు ఢీకొన్నాయి; ఒక కుటుంబం గాయపడి ఉండవచ్చు. మరింత పరిశీలన అవసరం.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_23,3
+RQN-002670,స్థానిక అప్‌డేట్: నీటి ట్యాంక్ దగ్గర గ్రామ శివారులో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. ఈ నివేదికను పరిశీలించండి.,te,Medical,synthetic_scenario_generator,True,medical_te_event_04,6
+RQN-003781,Follow-up: A severe storm impact is reported at Market area; blocked access is visible. Situation is still being checked.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_23,5
+RQN-005554,"నివేదిక: గ్రామ శివారుపై మట్టి, రాళ్లు పడ్డాయి; చాలా మంది నివాసితులు రాకపోకలు నిలిచిపోవచ్చు. వివరాలు ఇంకా నిర్ధారించలేదు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_05,2
+RQN-004571,निवासियों की सूचना: गाँव का बाहरी इलाका के आसपास भूकंप के झटके महसूस होने की सूचना है। विवरण की पुष्टि नहीं हुई है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_02,3
+RQN-005675,"అత్యవసర సమాచారం: కొండ ప్రాంత నివాసంపై మట్టి, రాళ్లు పడ్డాయి; వృద్ధులు రాకపోకలు నిలిచిపోవచ్చు. నివాసితులు సహాయం కోరుతున్నారు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_20,3
+RQN-000743,Report: Residents report a spreading fire near bus depot. Residents are requesting assistance.,en,Fire,synthetic_scenario_generator,True,fire_en_event_03,7
+RQN-004268,"నివాసితుల సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలో చాలా బలమైన వాతావరణం, పడిపోయిన కొమ్మలు ఉన్నట్లు సమాచారం. వివరాలు ఇంకా నిర్ధారించలేదు.",te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_24,4
+RQN-003361,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ దగ్గర కొండ ప్రాంత నివాసంలో విద్యుత్ తీగ దెబ్బతింది. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_01,1
+RQN-005440,कृपया पुष्टि करें: पहाड़ी बस्ती पर मिट्टी और पत्थर आ गए हैं; एक परिवार का संपर्क कट सकता है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_20,8
+RQN-003692,Information received: Residents report very strong conditions and fallen branches near public school. Source requests follow-up.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_12,4
+RQN-004332,Local update: Residents report an earthquake tremor around Central bus station. Please review this report.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_02,4
+RQN-002859,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ దగ్గర మార్కెట్ ప్రాంతంలో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_28,3
+RQN-000663,అత్యవసర సమాచారం: ప్రధాన కూడలి చుట్టూ బురదతో కూడిన నీరు చేరింది; వృద్ధులు చిక్కుకుని ఉండవచ్చు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_23,7
+RQN-005433,समुदाय की सूचना: पहाड़ी बस्ती पर मिट्टी और पत्थर आ गए हैं; एक परिवार का संपर्क कट सकता है। निवासी सहायता माँग रहे हैं।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_20,1
+RQN-001350,దయచేసి నిర్ధారించండి: రైల్వే క్రాసింగ్ దగ్గర కేంద్ర బస్ స్టేషన్లో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Fire,synthetic_scenario_generator,True,fire_te_event_19,6
+RQN-002674,తదుపరి సమాచారం: మార్కెట్ ప్రాంతంలో స్థానిక ప్రజలు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_05,2
+RQN-005308,आपात सूचना: सरकारी स्कूल के पास चट्टान गिरने वाला भूस्खलन से सड़क बंद हो गई है। स्रोत ने आगे की जानकारी माँगी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_04,4
+RQN-004302,అందిన సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర ప్రధాన కూడలిలో బలమైన పెను గాలి గాలులు వీస్తున్నాయి. ప్రాంతాన్ని నిర్ధారించాలి.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_28,6
+RQN-005838,Please verify: An unusual public safety concern was reported at Central bus station near municipal office: an unknown obstruction. Please review this report.,en,Other,synthetic_scenario_generator,True,other_en_event_10,6
+RQN-006279,అందిన సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలోని ఘటనను నిర్ధారించాలని ప్రజలు కోరుతున్నారు; వివరాలు: గుర్తు తెలియని ప్రమాదం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Other,synthetic_scenario_generator,True,other_te_event_05,7
+RQN-002196,Report: two children are reporting a medical emergency at Industrial zone.,en,Medical,synthetic_scenario_generator,True,medical_en_event_05,4
+RQN-000374,निवासियों की सूचना: नदी किनारे की कॉलोनी के आसपास टखनों तक भरा पानी भर गया है और यात्री फँसे हो सकते हैं।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_17,6
+RQN-003679,Please verify: Strong storm-force winds are affecting Old town near public school. Source requests follow-up.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_10,7
+RQN-006182,अनुवर्ती सूचना: बस डिपो के पास घटना की पुष्टि करने का अनुरोध है; विवरण: इकट्ठी होती भीड़। आगे जाँच आवश्यक है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_23,6
+RQN-005039,ప్రజల సమాచారం: సిటీ ఆసుపత్రి సమీపంలో మొబైల్ టవర్కు భూకంపం వల్ల నష్టం జరిగి ఉండవచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_30,7
+RQN-004493,Please verify: Shaking was felt at Riverside colony near municipal office; power disruption is reported. Situation is still being checked.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_22,5
+RQN-004265,"నివేదిక: కమ్యూనిటీ కేంద్రం సమీపంలో చాలా బలమైన వాతావరణం, పడిపోయిన కొమ్మలు ఉన్నట్లు సమాచారం.",te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_24,1
+RQN-003097,Information received: A mobile tower has been damaged near water tank at School campus. Residents are requesting assistance.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_28,1
+RQN-002862,అందిన సమాచారం: నీటి ట్యాంక్ దగ్గర మార్కెట్ ప్రాంతంలో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. మరింత పరిశీలన అవసరం.,te,Medical,synthetic_scenario_generator,True,medical_te_event_28,6
+RQN-003196,स्थानीय अपडेट: सरकारी स्कूल के पास पुराना शहर में मोबाइल टावर क्षतिग्रस्त हो गया है। आगे जाँच आवश्यक है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_10,4
+RQN-004465,Local update: Shaking was felt at Ward 12 near community centre; fallen trees is reported. Details are unconfirmed.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_19,1
+RQN-005794,Emergency note: Residents request verification of an incident near municipal office; details: a damaged public fixture. Situation is still being checked.,en,Other,synthetic_scenario_generator,True,other_en_event_05,2
+RQN-001011,आपात सूचना: नहर सड़क के पास पहाड़ी बस्ती में आग लगने की सूचना है। स्थिति की जाँच जारी है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_07,3
+RQN-000198,Local update: Flood water is entering Hillview settlement near the railway crossing.,en,Flood,synthetic_scenario_generator,True,flood_en_event_25,6
+RQN-005431,रिपोर्ट: सरकारी स्कूल के पास बारिश से हुआ भूस्खलन से सड़क बंद हो गई है। स्थिति की जाँच जारी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_19,7
+RQN-000439,समुदाय की सूचना: नगरपालिका कार्यालय के पास पुराना शहर में बाढ़ का पानी घुस रहा है। विवरण की पुष्टि नहीं हुई है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_25,7
+RQN-003268,स्थानीय अपडेट: सिटी अस्पताल के पास वार्ड 12 में बिजली की लाइन क्षतिग्रस्त हो गया है। आगे जाँच आवश्यक है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_19,4
+RQN-004861,స్థానిక అప్‌డేట్: పాఠశాల ప్రాంగణం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_08,5
+RQN-003155,प्राप्त जानकारी: स्कूल परिसर के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। निवासी सहायता माँग रहे हैं।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_05,3
+RQN-001411,అత్యవసర సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలో వాహనంలో వచ్చిన మంటలు కనిపిస్తున్నాయి. ప్రాంతాన్ని నిర్ధారించాలి.,te,Fire,synthetic_scenario_generator,True,fire_te_event_27,3
+RQN-000839,Please verify: Residents report a electrical fire near bus depot. Please review this report.,en,Fire,synthetic_scenario_generator,True,fire_en_event_15,7
+RQN-000622,నివాసితుల సమాచారం: మున్సిపల్ కార్యాలయం పక్కన రోడ్డుపై వరద నీరు ప్రవహిస్తోంది. నివాసితులు సహాయం కోరుతున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_18,6
+RQN-001412,ప్రజల సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలో వాహనంలో వచ్చిన మంటలు కనిపిస్తున్నాయి. మరింత పరిశీలన అవసరం.,te,Fire,synthetic_scenario_generator,True,fire_te_event_27,4
+RQN-002417,कृपया पुष्टि करें: साँस लेने में कठिनाई के कारण सिटी अस्पताल के पास एम्बुलेंस की आवश्यकता हो सकती है। निवासी सहायता माँग रहे हैं।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_03,1
+RQN-000162,Resident alert: The fast-moving has covered the road beside Central bus station. Please review this report.,en,Flood,synthetic_scenario_generator,True,flood_en_event_21,2
+RQN-003271,आपात सूचना: सिटी अस्पताल के पास वार्ड 12 में बिजली की लाइन क्षतिग्रस्त हो गया है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_19,7
+RQN-006340,ప్రజల సమాచారం: కమ్యూనిటీ కేంద్రం దగ్గర 12వ వార్డులో ప్రజా భద్రతకు సంబంధించిన అసాధారణ పరిస్థితి: గుమిగూడుతున్న జనసమూహం. మరింత పరిశీలన అవసరం.,te,Other,synthetic_scenario_generator,True,other_te_event_13,4
+RQN-002200,Local update: two children are reporting a medical emergency at Industrial zone. Source requests follow-up.,en,Medical,synthetic_scenario_generator,True,medical_en_event_05,8
+RQN-001417,స్థానిక అప్‌డేట్: తూర్పు బైపాస్ దగ్గర కొండ ప్రాంత నివాసంలో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Fire,synthetic_scenario_generator,True,fire_te_event_28,1
+RQN-002922,Please verify: A damaged bridge railing is creating a safety concern near the main bridge. Residents are requesting assistance.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_06,2
+RQN-006055,स्थानीय अपडेट: बस डिपो के पास वार्ड 12 में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: अज्ञात खतरा। स्रोत ने आगे की जानकारी माँगी है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_07,7
+RQN-006280,అత్యవసర సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలోని ఘటనను నిర్ధారించాలని ప్రజలు కోరుతున్నారు; వివరాలు: గుర్తు తెలియని ప్రమాదం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Other,synthetic_scenario_generator,True,other_te_event_05,8
+RQN-004163,నివాసితుల సమాచారం: 12వ వార్డులో తుఫాను ప్రభావం ఉంది; విద్యుత్ అంతరాయం కనిపిస్తోంది.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_11,3
+RQN-005134,Local update: Residents report a slope collapse near community centre affecting School campus. Residents are requesting assistance.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_12,6
+RQN-003104,Follow-up: A mobile tower has been damaged near water tank at School campus. Please review this report.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_28,8
+RQN-000657,స్థానిక అప్‌డేట్: ప్రధాన కూడలి చుట్టూ బురదతో కూడిన నీరు చేరింది; వృద్ధులు చిక్కుకుని ఉండవచ్చు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_23,1
+RQN-006184,स्थानीय अपडेट: बस डिपो के पास घटना की पुष्टि करने का अनुरोध है; विवरण: इकट्ठी होती भीड़। आगे जाँच आवश्यक है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_23,8
+RQN-005784,Resident alert: A situation requiring human assessment has been reported at Riverside colony. Location needs verification.,en,Other,synthetic_scenario_generator,True,other_en_event_03,8
+RQN-005437,प्राप्त जानकारी: पहाड़ी बस्ती पर मिट्टी और पत्थर आ गए हैं; एक परिवार का संपर्क कट सकता है। आगे जाँच आवश्यक है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_20,5
+RQN-004009,रिपोर्ट: नगरपालिका कार्यालय के पास गाँव का बाहरी इलाका में तेज़ तूफानी हवाएँ चल रही हैं। स्थिति की जाँच जारी है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_22,1
+RQN-002419,अनुवर्ती सूचना: साँस लेने में कठिनाई के कारण सिटी अस्पताल के पास एम्बुलेंस की आवश्यकता हो सकती है। स्थिति की जाँच जारी है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_03,3
+RQN-001305,"తదుపరి సమాచారం: ప్రధాన కూడలి నుంచి పొగ, మంటలు వస్తున్నాయి; లోపల ఇద్దరు పిల్లలు ఉండవచ్చు. ఈ నివేదికను పరిశీలించండి.",te,Fire,synthetic_scenario_generator,True,fire_te_event_14,1
+RQN-004570,निवासियों की सूचना: गाँव का बाहरी इलाका के आसपास भूकंप के झटके महसूस होने की सूचना है। आगे जाँच आवश्यक है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_02,2
+RQN-005677,"అత్యవసర సమాచారం: కొండ ప్రాంత నివాసంపై మట్టి, రాళ్లు పడ్డాయి; వృద్ధులు రాకపోకలు నిలిచిపోవచ్చు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_20,5
+RQN-005781,Emergency note: A situation requiring human assessment has been reported at Riverside colony. Location needs verification.,en,Other,synthetic_scenario_generator,True,other_en_event_03,5
+RQN-005037,నివాసితుల సమాచారం: సిటీ ఆసుపత్రి సమీపంలో మొబైల్ టవర్కు భూకంపం వల్ల నష్టం జరిగి ఉండవచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_30,5
+RQN-006274,అందిన సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలోని ఘటనను నిర్ధారించాలని ప్రజలు కోరుతున్నారు; వివరాలు: గుర్తు తెలియని ప్రమాదం. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_05,2
+RQN-005429,कृपया पुष्टि करें: सरकारी स्कूल के पास बारिश से हुआ भूस्खलन से सड़क बंद हो गई है। विवरण की पुष्टि नहीं हुई है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_19,5
+RQN-002384,Information received: A person needs urgent medical help at Central bus station near the main bridge.,en,Medical,synthetic_scenario_generator,True,medical_en_event_28,8
+RQN-002101,దయచేసి నిర్ధారించండి: ప్రధాన కూడలి సమీపంలో రెండు మోటార్ సైకిళ్లు ఢీకొన్నాయి; ఒక కుటుంబం గాయపడి ఉండవచ్చు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_23,5
+RQN-004479,Emergency note: Residents report an earthquake tremor around Industrial zone. Further assessment is needed.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_20,7
+RQN-003575,తదుపరి సమాచారం: రైల్వే క్రాసింగ్ సమీపంలో దెబ్బతిన్న వంతెన రెయిలింగ్ భద్రతా సమస్యగా మారింది. నివాసితులు సహాయం కోరుతున్నారు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_27,7
+RQN-002926,Report: A damaged bridge railing is creating a safety concern near the main bridge. Source requests follow-up.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_06,6
+RQN-000433,समुदाय की सूचना: नगरपालिका कार्यालय के पास पुराना शहर में बाढ़ का पानी घुस रहा है। स्थान की पुष्टि आवश्यक है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_25,1
+RQN-002103,దయచేసి నిర్ధారించండి: ప్రధాన కూడలి సమీపంలో రెండు మోటార్ సైకిళ్లు ఢీకొన్నాయి; ఒక కుటుంబం గాయపడి ఉండవచ్చు. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_23,7
+RQN-003693,Emergency note: Residents report very strong conditions and fallen branches near public school. Situation is still being checked.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_12,5
+RQN-005839,Follow-up: An unusual public safety concern was reported at Central bus station near municipal office: an unknown obstruction. Details are unconfirmed.,en,Other,synthetic_scenario_generator,True,other_en_event_10,7
+RQN-001732,प्राप्त जानकारी: रेलवे क्रॉसिंग के पास कई वाहनों की सड़क दुर्घटना हुई है; ट्रक और कार शामिल हैं। आगे जाँच आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_07,4
+RQN-004573,समुदाय की सूचना: गाँव का बाहरी इलाका के आसपास भूकंप के झटके महसूस होने की सूचना है। निवासी सहायता माँग रहे हैं।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_02,5
+RQN-006180,रिपोर्ट: बस डिपो के पास घटना की पुष्टि करने का अनुरोध है; विवरण: इकट्ठी होती भीड़। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Other,synthetic_scenario_generator,True,other_hi_event_23,4
+RQN-005133,Community report: Residents report a slope collapse near community centre affecting School campus. Situation is still being checked.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_12,5
+RQN-002194,Follow-up: two children are reporting a medical emergency at Industrial zone.,en,Medical,synthetic_scenario_generator,True,medical_en_event_05,2
+RQN-004899,ప్రజల సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో భూమి కంపించింది; పగిలిన కిటికీలు జరిగినట్లు సమాచారం. నివాసితులు సహాయం కోరుతున్నారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_13,3
+RQN-002271,Community report: two children are reporting a medical emergency at Village outskirts. Please review this report.,en,Medical,synthetic_scenario_generator,True,medical_en_event_14,7
+RQN-001920,अनुवर्ती सूचना: पानी की टंकी पर वाहन दुर्घटना के बाद यातायात रुका है। स्रोत ने आगे की जानकारी माँगी है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_30,8
+RQN-006056,समुदाय की सूचना: बस डिपो के पास वार्ड 12 में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: अज्ञात खतरा। विवरण की पुष्टि नहीं हुई है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_07,8
+RQN-004648,कृपया पुष्टि करें: मुख्य चौराहा के आसपास भूकंप के झटके महसूस होने की सूचना है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_11,8
+RQN-005689,దయచేసి నిర్ధారించండి: రైల్వే క్రాసింగ్ దగ్గర వర్షం కారణంగా జరిగిన కొండచరియలు విరిగి రహదారి మూసుకుపోయింది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_22,1
+RQN-000440,स्थानीय अपडेट: नगरपालिका कार्यालय के पास पुराना शहर में बाढ़ का पानी घुस रहा है। स्थान की पुष्टि आवश्यक है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_25,8
+RQN-005694,అత్యవసర సమాచారం: రైల్వే క్రాసింగ్ దగ్గర వర్షం కారణంగా జరిగిన కొండచరియలు విరిగి రహదారి మూసుకుపోయింది. మరింత పరిశీలన అవసరం.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_22,6
+RQN-005964,Resident alert: Residents request verification of an incident near municipal office; details: a missing warning sign. Further assessment is needed.,en,Other,synthetic_scenario_generator,True,other_en_event_26,4
+RQN-005500,प्राप्त जानकारी: बस डिपो के पास बड़ा भूस्खलन से सड़क बंद हो गई है। आगे जाँच आवश्यक है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_28,4
+RQN-004898,స్థానిక అప్‌డేట్: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో భూమి కంపించింది; పగిలిన కిటికీలు జరిగినట్లు సమాచారం. మరింత పరిశీలన అవసరం.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_13,2
+RQN-002668,అత్యవసర సమాచారం: నీటి ట్యాంక్ దగ్గర గ్రామ శివారులో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. మరింత పరిశీలన అవసరం.,te,Medical,synthetic_scenario_generator,True,medical_te_event_04,4
+RQN-001414,నివాసితుల సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలో వాహనంలో వచ్చిన మంటలు కనిపిస్తున్నాయి. నివాసితులు సహాయం కోరుతున్నారు.,te,Fire,synthetic_scenario_generator,True,fire_te_event_27,6
+RQN-004575,प्राप्त जानकारी: गाँव का बाहरी इलाका के आसपास भूकंप के झटके महसूस होने की सूचना है। स्थिति की जाँच जारी है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_02,7
+RQN-000943,Information received: A fire has been reported at Village outskirts near bus depot. Residents are requesting assistance.,en,Fire,synthetic_scenario_generator,True,fire_en_event_28,7
+RQN-003574,దయచేసి నిర్ధారించండి: రైల్వే క్రాసింగ్ సమీపంలో దెబ్బతిన్న వంతెన రెయిలింగ్ భద్రతా సమస్యగా మారింది. ఈ నివేదికను పరిశీలించండి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_27,6
+RQN-004725,निवासियों की सूचना: पूर्वी बाइपास के पास पानी की पाइपलाइन को भूकंप से नुकसान हो सकता है। आगे जाँच आवश्यक है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_21,5
+RQN-001557,Local update: Traffic is blocked after a vehicle crash at bus depot. Residents are requesting assistance.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_15,5
+RQN-004863,అత్యవసర సమాచారం: పాఠశాల ప్రాంగణం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. మరింత పరిశీలన అవసరం.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_08,7
+RQN-002102,తదుపరి సమాచారం: ప్రధాన కూడలి సమీపంలో రెండు మోటార్ సైకిళ్లు ఢీకొన్నాయి; ఒక కుటుంబం గాయపడి ఉండవచ్చు. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_23,6
+RQN-004814,నివేదిక: కొండ ప్రాంత నివాసం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_02,6
+RQN-001064,अनुवर्ती सूचना: सामुदायिक केंद्र के पास पहाड़ी बस्ती में आग लगने की सूचना है। स्थिति की जाँच जारी है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_13,8
+RQN-002381,Resident alert: A person needs urgent medical help at Central bus station near the main bridge. Situation is still being checked.,en,Medical,synthetic_scenario_generator,True,medical_en_event_28,5
+RQN-004335,Emergency note: Residents report an earthquake tremor around Central bus station. Situation is still being checked.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_02,7
+RQN-003194,अनुवर्ती सूचना: सरकारी स्कूल के पास पुराना शहर में मोबाइल टावर क्षतिग्रस्त हो गया है। स्रोत ने आगे की जानकारी माँगी है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_10,2
+RQN-003159,स्थानीय अपडेट: स्कूल परिसर के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। स्रोत ने आगे की जानकारी माँगी है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_05,7
+RQN-001556,Please verify: Traffic is blocked after a vehicle crash at bus depot. Further assessment is needed.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_15,4
+RQN-001538,Information received: A head-on road accident occurred near the main bridge involving a bus and an auto-rickshaw. Source requests follow-up.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_13,2
+RQN-000441,प्राप्त जानकारी: केंद्रीय बस स्टेशन के आसपास तेज़ बहता पानी भर गया है और स्थानीय लोग फँसे हो सकते हैं। निवासी सहायता माँग रहे हैं।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_26,1
+RQN-005504,प्राप्त जानकारी: बस डिपो के पास बड़ा भूस्खलन से सड़क बंद हो गई है। विवरण की पुष्टि नहीं हुई है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_28,8
+RQN-004270,"అత్యవసర సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలో చాలా బలమైన వాతావరణం, పడిపోయిన కొమ్మలు ఉన్నట్లు సమాచారం. ఈ నివేదికను పరిశీలించండి.",te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_24,6
+RQN-002199,Local update: two children are reporting a medical emergency at Industrial zone. Source requests follow-up.,en,Medical,synthetic_scenario_generator,True,medical_en_event_05,7
+RQN-004643,समुदाय की सूचना: मुख्य चौराहा के आसपास भूकंप के झटके महसूस होने की सूचना है। स्रोत ने आगे की जानकारी माँगी है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_11,3
+RQN-004334,Please verify: Residents report an earthquake tremor around Central bus station.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_02,6
+RQN-003928,अनुवर्ती सूचना: पहाड़ी बस्ती में तूफान का असर है और टूटी खिड़कियाँ दिखाई दे रहा है। निवासी सहायता माँग रहे हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_11,8
+RQN-004903,నివేదిక: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో భూమి కంపించింది; పగిలిన కిటికీలు జరిగినట్లు సమాచారం.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_13,7
+RQN-005261,Information received: A slope failure landslide has blocked the road near bus depot. Residents are requesting assistance.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_28,5
+RQN-000434,समुदाय की सूचना: नगरपालिका कार्यालय के पास पुराना शहर में बाढ़ का पानी घुस रहा है। निवासी सहायता माँग रहे हैं।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_25,2
+RQN-002420,समुदाय की सूचना: साँस लेने में कठिनाई के कारण सिटी अस्पताल के पास एम्बुलेंस की आवश्यकता हो सकती है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_03,4
+RQN-000623,దయచేసి నిర్ధారించండి: మున్సిపల్ కార్యాలయం పక్కన రోడ్డుపై వరద నీరు ప్రవహిస్తోంది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_18,7
+RQN-000165,Local update: The fast-moving has covered the road beside Central bus station. Source requests follow-up.,en,Flood,synthetic_scenario_generator,True,flood_en_event_21,5
+RQN-003673,Community report: Strong storm-force winds are affecting Old town near public school. Situation is still being checked.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_10,1
+RQN-003505,స్థానిక అప్‌డేట్: నీటి ట్యాంక్ దగ్గర పారిశ్రామిక ప్రాంతంలో విద్యుత్ తీగ దెబ్బతింది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_19,1
+RQN-003780,Emergency note: A severe storm impact is reported at Market area; blocked access is visible. Please review this report.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_23,4
+RQN-003014,Follow-up: Riverside colony residents report a bridge railing failure; access may be affected. Details are unconfirmed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_17,6
+RQN-003095,Emergency note: A damaged public building is creating a safety concern near canal road. Further assessment is needed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_27,7
+RQN-004336,Local update: Residents report an earthquake tremor around Central bus station. Source requests follow-up.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_02,8
+RQN-002094,స్థానిక అప్‌డేట్: ప్రధాన వంతెన దగ్గర బహుళ వాహనాల రోడ్డు ప్రమాదం జరిగింది; రెండు మోటార్ సైకిళ్లు ఉన్నాయి. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_22,6
+RQN-001660,Follow-up: A multi-vehicle road accident occurred near public school involving a bus and an auto-rickshaw. Source requests follow-up.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_28,4
+RQN-005795,Information received: Residents request verification of an incident near municipal office; details: a damaged public fixture. Source requests follow-up.,en,Other,synthetic_scenario_generator,True,other_en_event_05,3
+RQN-005214,Resident alert: A slope failure landslide has blocked the road near community centre. Please review this report.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_22,6
+RQN-001016,अनुवर्ती सूचना: नहर सड़क के पास पहाड़ी बस्ती में आग लगने की सूचना है। विवरण की पुष्टि नहीं हुई है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_07,8
+RQN-002000,తదుపరి సమాచారం: తూర్పు బైపాస్ దగ్గర తీవ్రమైన రోడ్డు ప్రమాదం జరిగింది; బస్సు మరియు ఆటోరిక్షా ఉన్నాయి. మరింత పరిశీలన అవసరం.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_10,8
+RQN-002378,Follow-up: A person needs urgent medical help at Central bus station near the main bridge. Situation is still being checked.,en,Medical,synthetic_scenario_generator,True,medical_en_event_28,2
+RQN-000662,దయచేసి నిర్ధారించండి: ప్రధాన కూడలి చుట్టూ బురదతో కూడిన నీరు చేరింది; వృద్ధులు చిక్కుకుని ఉండవచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Flood,synthetic_scenario_generator,True,flood_te_event_23,6
+RQN-000862,Report: Residents report a building fire near community centre. Situation is still being checked.,en,Fire,synthetic_scenario_generator,True,fire_en_event_18,6
+RQN-001549,Emergency note: a car and a bus collided near Hillview settlement; a family may be injured.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_14,5
+RQN-003200,कृपया पुष्टि करें: सरकारी स्कूल के पास पुराना शहर में मोबाइल टावर क्षतिग्रस्त हो गया है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_10,8
+RQN-002927,Report: A damaged bridge railing is creating a safety concern near the main bridge. Details are unconfirmed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_06,7
+RQN-001690,प्राप्त जानकारी: गाँव का बाहरी इलाका के पास कार और बस की टक्कर हुई; बुज़ुर्ग लोग घायल हो सकते हैं। स्थान की पुष्टि आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_02,2
+RQN-003810,Local update: Residents report rain-laden conditions and fallen branches near community centre. Location needs verification.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_27,2
+RQN-002395,Community report: An ambulance may be needed near public school for chest pain. Location needs verification.,en,Medical,synthetic_scenario_generator,True,medical_en_event_30,3
+RQN-001541,Follow-up: A head-on road accident occurred near the main bridge involving a bus and an auto-rickshaw. Source requests follow-up.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_13,5
+RQN-001915,आपात सूचना: पानी की टंकी पर वाहन दुर्घटना के बाद यातायात रुका है। आगे जाँच आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_30,3
+RQN-003809,Emergency note: Residents report rain-laden conditions and fallen branches near community centre. Details are unconfirmed.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_27,1
+RQN-005705,అందిన సమాచారం: నీటి ట్యాంక్ సమీపంలో కొండ వాలు కూలి కొండ ప్రాంత నివాసం ప్రభావితమైంది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_24,1
+RQN-002399,Follow-up: An ambulance may be needed near public school for chest pain. Residents are requesting assistance.,en,Medical,synthetic_scenario_generator,True,medical_en_event_30,7
+RQN-005213,Resident alert: A slope failure landslide has blocked the road near community centre.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_22,5
+RQN-005799,Local update: Residents request verification of an incident near municipal office; details: a damaged public fixture. Please review this report.,en,Other,synthetic_scenario_generator,True,other_en_event_05,7
+RQN-002449,आपात सूचना: मुख्य पुल के पास वार्ड 12 में एक व्यक्ति को तुरंत चिकित्सा सहायता चाहिए। स्थान की पुष्टि आवश्यक है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_07,1
+RQN-004480,Information received: Residents report an earthquake tremor around Industrial zone. Situation is still being checked.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_20,8
+RQN-000197,Report: Flood water is entering Hillview settlement near the railway crossing. Further assessment is needed.,en,Flood,synthetic_scenario_generator,True,flood_en_event_25,5
+RQN-002265,Report: two children are reporting a medical emergency at Village outskirts. Please review this report.,en,Medical,synthetic_scenario_generator,True,medical_en_event_14,1
+RQN-000353,रिपोर्ट: सरकारी स्कूल के पास सड़क पर बाढ़ का पानी बह रहा है। स्रोत ने आगे की जानकारी माँगी है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_15,1
+RQN-000194,Information received: Flood water is entering Hillview settlement near the railway crossing. Details are unconfirmed.,en,Flood,synthetic_scenario_generator,True,flood_en_event_25,2
+RQN-001309,"అత్యవసర సమాచారం: ప్రధాన కూడలి నుంచి పొగ, మంటలు వస్తున్నాయి; లోపల ఇద్దరు పిల్లలు ఉండవచ్చు. వివరాలు ఇంకా నిర్ధారించలేదు.",te,Fire,synthetic_scenario_generator,True,fire_te_event_14,5
+RQN-004272,"అందిన సమాచారం: కమ్యూనిటీ కేంద్రం సమీపంలో చాలా బలమైన వాతావరణం, పడిపోయిన కొమ్మలు ఉన్నట్లు సమాచారం. ప్రాంతాన్ని నిర్ధారించాలి.",te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_24,8
+RQN-002560,निवासियों की सूचना: पुराना शहर में कई निवासी ने चिकित्सा आपातकाल की सूचना दी है। विवरण की पुष्टि नहीं हुई है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_20,8
+RQN-001057,कृपया पुष्टि करें: सामुदायिक केंद्र के पास पहाड़ी बस्ती में आग लगने की सूचना है। स्थिति की जाँच जारी है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_13,1
+RQN-002673,అత్యవసర సమాచారం: మార్కెట్ ప్రాంతంలో స్థానిక ప్రజలు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_05,1
+RQN-003542,అందిన సమాచారం: పారిశ్రామిక ప్రాంతం ప్రజలు వంతెన రెయిలింగ్ పనిచేయడం లేదని తెలిపారు; రాకపోకలకు ఇబ్బంది కావచ్చు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_23,6
+RQN-005229,Report: Residents report a slope collapse near the railway crossing affecting Industrial zone. Situation is still being checked.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_24,5
+RQN-001918,निवासियों की सूचना: पानी की टंकी पर वाहन दुर्घटना के बाद यातायात रुका है। स्थान की पुष्टि आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_30,6
+RQN-001061,स्थानीय अपडेट: सामुदायिक केंद्र के पास पहाड़ी बस्ती में आग लगने की सूचना है। विवरण की पुष्टि नहीं हुई है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_13,5
+RQN-001348,అత్యవసర సమాచారం: రైల్వే క్రాసింగ్ దగ్గర కేంద్ర బస్ స్టేషన్లో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Fire,synthetic_scenario_generator,True,fire_te_event_19,4
+RQN-001692,कृपया पुष्टि करें: गाँव का बाहरी इलाका के पास कार और बस की टक्कर हुई; बुज़ुर्ग लोग घायल हो सकते हैं। स्थिति की जाँच जारी है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_02,4
+RQN-005503,प्राप्त जानकारी: बस डिपो के पास बड़ा भूस्खलन से सड़क बंद हो गई है। स्रोत ने आगे की जानकारी माँगी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_28,7
+RQN-000375,समुदाय की सूचना: नदी किनारे की कॉलोनी के आसपास टखनों तक भरा पानी भर गया है और यात्री फँसे हो सकते हैं। निवासी सहायता माँग रहे हैं।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_17,7
+RQN-000742,Local update: Residents report a spreading fire near bus depot.,en,Fire,synthetic_scenario_generator,True,fire_en_event_03,6
+RQN-002699,అందిన సమాచారం: నదీ తీర కాలనీలో వృద్ధులు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_08,3
+RQN-000864,Please verify: Residents report a building fire near community centre. Residents are requesting assistance.,en,Fire,synthetic_scenario_generator,True,fire_en_event_18,8
+RQN-005695,ప్రజల సమాచారం: రైల్వే క్రాసింగ్ దగ్గర వర్షం కారణంగా జరిగిన కొండచరియలు విరిగి రహదారి మూసుకుపోయింది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_22,7
+RQN-006125,कृपया पुष्टि करें: पूर्वी बाइपास के पास नदी किनारे की कॉलोनी में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: रासायनिक गंध। स्थिति की जाँच जारी है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_16,5
+RQN-001545,Follow-up: a car and a bus collided near Hillview settlement; a family may be injured. Please review this report.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_14,1
+RQN-005227,Please verify: Residents report a slope collapse near the railway crossing affecting Industrial zone. Please review this report.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_24,3
+RQN-006408,అత్యవసర సమాచారం: 12వ వార్డులో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. ప్రాంతాన్ని నిర్ధారించాలి.,te,Other,synthetic_scenario_generator,True,other_te_event_21,8
+RQN-005216,Please verify: A slope failure landslide has blocked the road near community centre. Location needs verification.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_22,8
+RQN-001559,Follow-up: Traffic is blocked after a vehicle crash at bus depot. Further assessment is needed.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_15,7
+RQN-003675,Community report: Strong storm-force winds are affecting Old town near public school.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_10,3
+RQN-004490,Report: Shaking was felt at Riverside colony near municipal office; power disruption is reported. Please review this report.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_22,2
+RQN-002267,Community report: two children are reporting a medical emergency at Village outskirts. Location needs verification.,en,Medical,synthetic_scenario_generator,True,medical_en_event_14,3
+RQN-001012,स्थानीय अपडेट: नहर सड़क के पास पहाड़ी बस्ती में आग लगने की सूचना है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_07,4
+RQN-004032,अनुवर्ती सूचना: सिटी अस्पताल के पास तूफानी मौसम और गिरी हुई शाखाओं की सूचना है। स्थान की पुष्टि आवश्यक है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_24,8
+RQN-002377,Report: A person needs urgent medical help at Central bus station near the main bridge. Further assessment is needed.,en,Medical,synthetic_scenario_generator,True,medical_en_event_28,1
+RQN-001995,నివేదిక: తూర్పు బైపాస్ దగ్గర తీవ్రమైన రోడ్డు ప్రమాదం జరిగింది; బస్సు మరియు ఆటోరిక్షా ఉన్నాయి. మరింత పరిశీలన అవసరం.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_10,3
+RQN-002269,Local update: two children are reporting a medical emergency at Village outskirts. Residents are requesting assistance.,en,Medical,synthetic_scenario_generator,True,medical_en_event_14,5
+RQN-001554,Local update: Traffic is blocked after a vehicle crash at bus depot. Residents are requesting assistance.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_15,2
+RQN-004120,నివేదిక: కేంద్ర బస్ స్టేషన్లో తుఫాను ప్రభావం ఉంది; పడిపోయిన చెట్లు కనిపిస్తోంది. నివాసితులు సహాయం కోరుతున్నారు.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_05,8
+RQN-000621,నివేదిక: మున్సిపల్ కార్యాలయం పక్కన రోడ్డుపై వరద నీరు ప్రవహిస్తోంది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_18,5
+RQN-005232,Emergency note: Residents report a slope collapse near the railway crossing affecting Industrial zone. Source requests follow-up.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_24,8
+RQN-004303,నివాసితుల సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర ప్రధాన కూడలిలో బలమైన పెను గాలి గాలులు వీస్తున్నాయి. ప్రాంతాన్ని నిర్ధారించాలి.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_28,7
+RQN-006124,कृपया पुष्टि करें: पूर्वी बाइपास के पास नदी किनारे की कॉलोनी में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: रासायनिक गंध। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Other,synthetic_scenario_generator,True,other_hi_event_16,4
+RQN-001540,Report: A head-on road accident occurred near the main bridge involving a bus and an auto-rickshaw. Residents are requesting assistance.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_13,4
+RQN-004756,कृपया पुष्टि करें: सामुदायिक केंद्र के पास केंद्रीय बस स्टेशन में झटके महसूस किए गए; छत को नुकसान की सूचना है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_25,4
+RQN-001004,समुदाय की सूचना: मुख्य पुल के पास वाहन में लगी आग दिखाई दे रही है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_06,4
+RQN-006053,आपात सूचना: बस डिपो के पास वार्ड 12 में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: अज्ञात खतरा। स्रोत ने आगे की जानकारी माँगी है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_07,5
+RQN-005211,Community report: A slope failure landslide has blocked the road near community centre. Source requests follow-up.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_22,3
+RQN-002454,आपात सूचना: मुख्य पुल के पास वार्ड 12 में एक व्यक्ति को तुरंत चिकित्सा सहायता चाहिए। स्थान की पुष्टि आवश्यक है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_07,6
+RQN-006477,నివేదిక: కేంద్ర బస్ స్టేషన్లో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది.,te,Other,synthetic_scenario_generator,True,other_te_event_30,5
+RQN-002098,అత్యవసర సమాచారం: ప్రధాన కూడలి సమీపంలో రెండు మోటార్ సైకిళ్లు ఢీకొన్నాయి; ఒక కుటుంబం గాయపడి ఉండవచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_23,2
+RQN-003180,समुदाय की सूचना: गाँव का बाहरी इलाका के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। स्थान की पुष्टि आवश्यक है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_08,4
+RQN-006051,अनुवर्ती सूचना: बस डिपो के पास वार्ड 12 में सार्वजनिक सुरक्षा से जुड़ी असामान्य स्थिति की सूचना है: अज्ञात खतरा। स्रोत ने आगे की जानकारी माँगी है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_07,3
+RQN-004014,स्थानीय अपडेट: नगरपालिका कार्यालय के पास गाँव का बाहरी इलाका में तेज़ तूफानी हवाएँ चल रही हैं। स्थान की पुष्टि आवश्यक है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_22,6
+RQN-005800,Community report: Residents request verification of an incident near municipal office; details: a damaged public fixture. Residents are requesting assistance.,en,Other,synthetic_scenario_generator,True,other_en_event_05,8
+RQN-005690,అందిన సమాచారం: రైల్వే క్రాసింగ్ దగ్గర వర్షం కారణంగా జరిగిన కొండచరియలు విరిగి రహదారి మూసుకుపోయింది. మరింత పరిశీలన అవసరం.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_22,2
+RQN-001550,Report: a car and a bus collided near Hillview settlement; a family may be injured. Further assessment is needed.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_14,6
+RQN-004862,అత్యవసర సమాచారం: పాఠశాల ప్రాంగణం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_08,6
+RQN-000660,ప్రజల సమాచారం: ప్రధాన కూడలి చుట్టూ బురదతో కూడిన నీరు చేరింది; వృద్ధులు చిక్కుకుని ఉండవచ్చు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_23,4
+RQN-000369,स्थानीय अपडेट: नदी किनारे की कॉलोनी के आसपास टखनों तक भरा पानी भर गया है और यात्री फँसे हो सकते हैं। स्थिति की जाँच जारी है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_17,1
+RQN-000372,प्राप्त जानकारी: नदी किनारे की कॉलोनी के आसपास टखनों तक भरा पानी भर गया है और यात्री फँसे हो सकते हैं। निवासी सहायता माँग रहे हैं।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_17,4
+RQN-006106,आपात सूचना: नगरपालिका कार्यालय के पास घटना की पुष्टि करने का अनुरोध है; विवरण: रासायनिक गंध। स्थिति की जाँच जारी है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_14,2
+RQN-006178,कृपया पुष्टि करें: बस डिपो के पास घटना की पुष्टि करने का अनुरोध है; विवरण: इकट्ठी होती भीड़। स्थान की पुष्टि आवश्यक है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_23,2
+RQN-003508,తదుపరి సమాచారం: నీటి ట్యాంక్ దగ్గర పారిశ్రామిక ప్రాంతంలో విద్యుత్ తీగ దెబ్బతింది.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_19,4
+RQN-001914,समुदाय की सूचना: पानी की टंकी पर वाहन दुर्घटना के बाद यातायात रुका है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_30,2
+RQN-004902,స్థానిక అప్‌డేట్: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో భూమి కంపించింది; పగిలిన కిటికీలు జరిగినట్లు సమాచారం.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_13,6
+RQN-001352,నివేదిక: రైల్వే క్రాసింగ్ దగ్గర కేంద్ర బస్ స్టేషన్లో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Fire,synthetic_scenario_generator,True,fire_te_event_19,8
+RQN-003690,Report: Residents report very strong conditions and fallen branches near public school. Location needs verification.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_12,2
+RQN-000438,अनुवर्ती सूचना: नगरपालिका कार्यालय के पास पुराना शहर में बाढ़ का पानी घुस रहा है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_25,6
+RQN-001007,आपात सूचना: मुख्य पुल के पास वाहन में लगी आग दिखाई दे रही है। स्थिति की जाँच जारी है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_06,7
+RQN-001312,"నివేదిక: ప్రధాన కూడలి నుంచి పొగ, మంటలు వస్తున్నాయి; లోపల ఇద్దరు పిల్లలు ఉండవచ్చు. వివరాలు ఇంకా నిర్ధారించలేదు.",te,Fire,synthetic_scenario_generator,True,fire_te_event_14,8
+RQN-002675,దయచేసి నిర్ధారించండి: మార్కెట్ ప్రాంతంలో స్థానిక ప్రజలు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. ప్రాంతాన్ని నిర్ధారించాలి.,te,Medical,synthetic_scenario_generator,True,medical_te_event_05,3
+RQN-005135,Please verify: Residents report a slope collapse near community centre affecting School campus. Location needs verification.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_12,7
+RQN-003156,रिपोर्ट: स्कूल परिसर के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। विवरण की पुष्टि नहीं हुई है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_05,4
+RQN-006177,अनुवर्ती सूचना: बस डिपो के पास घटना की पुष्टि करने का अनुरोध है; विवरण: इकट्ठी होती भीड़। स्थिति की जाँच जारी है।,hi,Other,synthetic_scenario_generator,True,other_hi_event_23,1
+RQN-005696,నివేదిక: రైల్వే క్రాసింగ్ దగ్గర వర్షం కారణంగా జరిగిన కొండచరియలు విరిగి రహదారి మూసుకుపోయింది. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Landslide,synthetic_scenario_generator,True,landslide_te_event_22,8
+RQN-004646,स्थानीय अपडेट: मुख्य चौराहा के आसपास भूकंप के झटके महसूस होने की सूचना है। विवरण की पुष्टि नहीं हुई है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_11,6
+RQN-001729,आपात सूचना: रेलवे क्रॉसिंग के पास कई वाहनों की सड़क दुर्घटना हुई है; ट्रक और कार शामिल हैं। स्थान की पुष्टि आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_07,1
+RQN-001062,अनुवर्ती सूचना: सामुदायिक केंद्र के पास पहाड़ी बस्ती में आग लगने की सूचना है। स्थान की पुष्टि आवश्यक है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_13,6
+RQN-003927,रिपोर्ट: पहाड़ी बस्ती में तूफान का असर है और टूटी खिड़कियाँ दिखाई दे रहा है। विवरण की पुष्टि नहीं हुई है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_11,7
+RQN-005674,"దయచేసి నిర్ధారించండి: కొండ ప్రాంత నివాసంపై మట్టి, రాళ్లు పడ్డాయి; వృద్ధులు రాకపోకలు నిలిచిపోవచ్చు. ఈ నివేదికను పరిశీలించండి.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_20,2
+RQN-006401,నివాసితుల సమాచారం: 12వ వార్డులో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_21,1
+RQN-002268,Follow-up: two children are reporting a medical emergency at Village outskirts. Location needs verification.,en,Medical,synthetic_scenario_generator,True,medical_en_event_14,4
+RQN-001917,प्राप्त जानकारी: पानी की टंकी पर वाहन दुर्घटना के बाद यातायात रुका है। स्थान की पुष्टि आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_30,5
+RQN-001695,स्थानीय अपडेट: गाँव का बाहरी इलाका के पास कार और बस की टक्कर हुई; बुज़ुर्ग लोग घायल हो सकते हैं। स्रोत ने आगे की जानकारी माँगी है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_02,7
+RQN-006407,నివేదిక: 12వ వార్డులో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_21,7
+RQN-003507,అత్యవసర సమాచారం: నీటి ట్యాంక్ దగ్గర పారిశ్రామిక ప్రాంతంలో విద్యుత్ తీగ దెబ్బతింది. ఈ నివేదికను పరిశీలించండి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_19,3
+RQN-001767,कृपया पुष्टि करें: औद्योगिक क्षेत्र के पास ट्रक और कार की टक्कर हुई; एक परिवार घायल हो सकते हैं। निवासी सहायता माँग रहे हैं।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_11,7
+RQN-004064,आपात सूचना: नगरपालिका कार्यालय के पास बाज़ार क्षेत्र में तेज़ तेज़ गति की हवाएँ चल रही हैं। स्रोत ने आगे की जानकारी माँगी है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_28,8
+RQN-003537,ప్రజల సమాచారం: పారిశ్రామిక ప్రాంతం ప్రజలు వంతెన రెయిలింగ్ పనిచేయడం లేదని తెలిపారు; రాకపోకలకు ఇబ్బంది కావచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_23,1
+RQN-002701,నివేదిక: నదీ తీర కాలనీలో వృద్ధులు వైద్య అత్యవసర పరిస్థితి ఉందని తెలిపారు. వివరాలు ఇంకా నిర్ధారించలేదు.,te,Medical,synthetic_scenario_generator,True,medical_te_event_08,5
+RQN-004728,निवासियों की सूचना: पूर्वी बाइपास के पास पानी की पाइपलाइन को भूकंप से नुकसान हो सकता है। स्रोत ने आगे की जानकारी माँगी है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_21,8
+RQN-000938,Local update: A fire has been reported at Village outskirts near bus depot. Residents are requesting assistance.,en,Fire,synthetic_scenario_generator,True,fire_en_event_28,2
+RQN-005783,Local update: A situation requiring human assessment has been reported at Riverside colony. Source requests follow-up.,en,Other,synthetic_scenario_generator,True,other_en_event_03,7
+RQN-001005,निवासियों की सूचना: मुख्य पुल के पास वाहन में लगी आग दिखाई दे रही है। निवासी सहायता माँग रहे हैं।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_06,5
+RQN-002423,आपात सूचना: साँस लेने में कठिनाई के कारण सिटी अस्पताल के पास एम्बुलेंस की आवश्यकता हो सकती है। स्थिति की जाँच जारी है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_03,7
+RQN-004721,प्राप्त जानकारी: पूर्वी बाइपास के पास पानी की पाइपलाइन को भूकंप से नुकसान हो सकता है। आगे जाँच आवश्यक है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_21,1
+RQN-002924,Local update: A damaged bridge railing is creating a safety concern near the main bridge. Details are unconfirmed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_06,4
+RQN-004724,आपात सूचना: पूर्वी बाइपास के पास पानी की पाइपलाइन को भूकंप से नुकसान हो सकता है। स्रोत ने आगे की जानकारी माँगी है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_21,4
+RQN-004060,अनुवर्ती सूचना: नगरपालिका कार्यालय के पास बाज़ार क्षेत्र में तेज़ तेज़ गति की हवाएँ चल रही हैं। स्थान की पुष्टि आवश्यक है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_28,4
+RQN-003010,Follow-up: Riverside colony residents report a bridge railing failure; access may be affected. Further assessment is needed.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_17,2
+RQN-004813,అత్యవసర సమాచారం: కొండ ప్రాంత నివాసం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_02,5
+RQN-003674,Information received: Strong storm-force winds are affecting Old town near public school. Further assessment is needed.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_10,2
+RQN-000105,Resident alert: Residents report overflowing water around Ward 12; several residents may be stranded near bus depot.,en,Flood,synthetic_scenario_generator,True,flood_en_event_14,1
+RQN-000629,అత్యవసర సమాచారం: మున్సిపల్ కార్యాలయం దగ్గర పాత పట్టణంలో వరద నీరు ఇళ్లలోకి వస్తోంది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_19,5
+RQN-000446,प्राप्त जानकारी: केंद्रीय बस स्टेशन के आसपास तेज़ बहता पानी भर गया है और स्थानीय लोग फँसे हो सकते हैं। विवरण की पुष्टि नहीं हुई है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_26,6
+RQN-005259,Information received: A slope failure landslide has blocked the road near bus depot. Further assessment is needed.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_28,3
+RQN-001059,रिपोर्ट: सामुदायिक केंद्र के पास पहाड़ी बस्ती में आग लगने की सूचना है। स्थिति की जाँच जारी है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_13,3
+RQN-003182,आपात सूचना: गाँव का बाहरी इलाका के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_08,6
+RQN-005258,Local update: A slope failure landslide has blocked the road near bus depot. Details are unconfirmed.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_28,2
+RQN-001418,నివేదిక: తూర్పు బైపాస్ దగ్గర కొండ ప్రాంత నివాసంలో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం. నివాసితులు సహాయం కోరుతున్నారు.,te,Fire,synthetic_scenario_generator,True,fire_te_event_28,2
+RQN-000658,తదుపరి సమాచారం: ప్రధాన కూడలి చుట్టూ బురదతో కూడిన నీరు చేరింది; వృద్ధులు చిక్కుకుని ఉండవచ్చు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_23,2
+RQN-001410,స్థానిక అప్‌డేట్: కమ్యూనిటీ కేంద్రం సమీపంలో వాహనంలో వచ్చిన మంటలు కనిపిస్తున్నాయి. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Fire,synthetic_scenario_generator,True,fire_te_event_27,2
+RQN-000836,Emergency note: Residents report a electrical fire near bus depot. Source requests follow-up.,en,Fire,synthetic_scenario_generator,True,fire_en_event_15,4
+RQN-004161,స్థానిక అప్‌డేట్: 12వ వార్డులో తుఫాను ప్రభావం ఉంది; విద్యుత్ అంతరాయం కనిపిస్తోంది. నివాసితులు సహాయం కోరుతున్నారు.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_11,1
+RQN-001733,समुदाय की सूचना: रेलवे क्रॉसिंग के पास कई वाहनों की सड़क दुर्घटना हुई है; ट्रक और कार शामिल हैं। स्थान की पुष्टि आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_07,5
+RQN-001763,स्थानीय अपडेट: औद्योगिक क्षेत्र के पास ट्रक और कार की टक्कर हुई; एक परिवार घायल हो सकते हैं।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_11,3
+RQN-000356,प्राप्त जानकारी: सरकारी स्कूल के पास सड़क पर बाढ़ का पानी बह रहा है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_15,4
+RQN-003783,Local update: A severe storm impact is reported at Market area; blocked access is visible. Location needs verification.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_23,7
+RQN-001664,Resident alert: A multi-vehicle road accident occurred near public school involving a bus and an auto-rickshaw. Location needs verification.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_28,8
+RQN-004331,Local update: Residents report an earthquake tremor around Central bus station. Details are unconfirmed.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_02,3
+RQN-004299,దయచేసి నిర్ధారించండి: మున్సిపల్ కార్యాలయం దగ్గర ప్రధాన కూడలిలో బలమైన పెను గాలి గాలులు వీస్తున్నాయి. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_28,3
+RQN-004473,Local update: Residents report an earthquake tremor around Industrial zone. Residents are requesting assistance.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_20,1
+RQN-000108,Information received: Residents report overflowing water around Ward 12; several residents may be stranded near bus depot. Residents are requesting assistance.,en,Flood,synthetic_scenario_generator,True,flood_en_event_14,4
+RQN-004062,निवासियों की सूचना: नगरपालिका कार्यालय के पास बाज़ार क्षेत्र में तेज़ तेज़ गति की हवाएँ चल रही हैं। निवासी सहायता माँग रहे हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_28,6
+RQN-000619,నివేదిక: మున్సిపల్ కార్యాలయం పక్కన రోడ్డుపై వరద నీరు ప్రవహిస్తోంది. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.,te,Flood,synthetic_scenario_generator,True,flood_te_event_18,3
+RQN-006337,అత్యవసర సమాచారం: కమ్యూనిటీ కేంద్రం దగ్గర 12వ వార్డులో ప్రజా భద్రతకు సంబంధించిన అసాధారణ పరిస్థితి: గుమిగూడుతున్న జనసమూహం. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_13,1
+RQN-002452,प्राप्त जानकारी: मुख्य पुल के पास वार्ड 12 में एक व्यक्ति को तुरंत चिकित्सा सहायता चाहिए। आगे जाँच आवश्यक है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_07,4
+RQN-003923,निवासियों की सूचना: पहाड़ी बस्ती में तूफान का असर है और टूटी खिड़कियाँ दिखाई दे रहा है। स्रोत ने आगे की जानकारी माँगी है।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_11,3
+RQN-002422,स्थानीय अपडेट: साँस लेने में कठिनाई के कारण सिटी अस्पताल के पास एम्बुलेंस की आवश्यकता हो सकती है। स्रोत ने आगे की जानकारी माँगी है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_03,6
+RQN-005679,"నివాసితుల సమాచారం: కొండ ప్రాంత నివాసంపై మట్టి, రాళ్లు పడ్డాయి; వృద్ధులు రాకపోకలు నిలిచిపోవచ్చు. మరింత పరిశీలన అవసరం.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_20,7
+RQN-004859,తదుపరి సమాచారం: పాఠశాల ప్రాంగణం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. మరింత పరిశీలన అవసరం.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_08,3
+RQN-004641,प्राप्त जानकारी: मुख्य चौराहा के आसपास भूकंप के झटके महसूस होने की सूचना है। विवरण की पुष्टि नहीं हुई है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_11,1
+RQN-006478,అత్యవసర సమాచారం: కేంద్ర బస్ స్టేషన్లో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. ప్రాంతాన్ని నిర్ధారించాలి.,te,Other,synthetic_scenario_generator,True,other_te_event_30,6
+RQN-006474,ప్రజల సమాచారం: కేంద్ర బస్ స్టేషన్లో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. ఈ నివేదికను పరిశీలించండి.,te,Other,synthetic_scenario_generator,True,other_te_event_30,2
+RQN-004166,నివాసితుల సమాచారం: 12వ వార్డులో తుఫాను ప్రభావం ఉంది; విద్యుత్ అంతరాయం కనిపిస్తోంది. ఈ నివేదికను పరిశీలించండి.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_11,6
+RQN-005428,निवासियों की सूचना: सरकारी स्कूल के पास बारिश से हुआ भूस्खलन से सड़क बंद हो गई है। स्रोत ने आगे की जानकारी माँगी है।,hi,Landslide,synthetic_scenario_generator,True,landslide_hi_event_19,4
+RQN-005782,Follow-up: A situation requiring human assessment has been reported at Riverside colony. Please review this report.,en,Other,synthetic_scenario_generator,True,other_en_event_03,6
+RQN-001118,स्थानीय अपडेट: केंद्रीय बस स्टेशन से धुआँ और लपटें निकल रही हैं; अंदर कई निवासी हो सकते हैं।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_20,6
+RQN-003098,Information received: A mobile tower has been damaged near water tank at School campus. Location needs verification.,en,Infrastructure,synthetic_scenario_generator,True,infrastructure_en_event_28,2
+RQN-005231,Local update: Residents report a slope collapse near the railway crossing affecting Industrial zone.,en,Landslide,synthetic_scenario_generator,True,landslide_en_event_24,7
+RQN-003812,Please verify: Residents report rain-laden conditions and fallen branches near community centre. Situation is still being checked.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_27,4
+RQN-001546,Please verify: a car and a bus collided near Hillview settlement; a family may be injured. Further assessment is needed.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_14,2
+RQN-003193,निवासियों की सूचना: सरकारी स्कूल के पास पुराना शहर में मोबाइल टावर क्षतिग्रस्त हो गया है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_10,1
+RQN-004492,Information received: Shaking was felt at Riverside colony near municipal office; power disruption is reported. Please review this report.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_22,4
+RQN-001768,आपात सूचना: औद्योगिक क्षेत्र के पास ट्रक और कार की टक्कर हुई; एक परिवार घायल हो सकते हैं। निवासी सहायता माँग रहे हैं।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_11,8
+RQN-002864,అందిన సమాచారం: నీటి ట్యాంక్ దగ్గర మార్కెట్ ప్రాంతంలో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. ప్రాంతాన్ని నిర్ధారించాలి.,te,Medical,synthetic_scenario_generator,True,medical_te_event_28,8
+RQN-006402,ప్రజల సమాచారం: 12వ వార్డులో మానవ పరిశీలన అవసరమైన పరిస్థితి నివేదించబడింది. పరిస్థితిని ఇంకా పరిశీలిస్తున్నారు.,te,Other,synthetic_scenario_generator,True,other_te_event_21,2
+RQN-000186,Local update: The waist-deep has covered the road beside Ward 12. Location needs verification.,en,Flood,synthetic_scenario_generator,True,flood_en_event_24,2
+RQN-004494,Report: Shaking was felt at Riverside colony near municipal office; power disruption is reported.,en,Earthquake,synthetic_scenario_generator,True,earthquake_en_event_22,6
+RQN-003177,समुदाय की सूचना: गाँव का बाहरी इलाका के लोगों ने सड़क खराब होने की सूचना दी; रास्ता प्रभावित हो सकता है। स्थान की पुष्टि आवश्यक है।,hi,Infrastructure,synthetic_scenario_generator,True,infrastructure_hi_event_08,1
+RQN-002272,Report: two children are reporting a medical emergency at Village outskirts. Further assessment is needed.,en,Medical,synthetic_scenario_generator,True,medical_en_event_14,8
+RQN-002021,నివేదిక: నీటి ట్యాంక్ దగ్గర ద్విచక్ర వాహన రోడ్డు ప్రమాదం జరిగింది; అనేక వాహనాలు ఉన్నాయి. ఈ నివేదికను పరిశీలించండి.,te,Road accident,synthetic_scenario_generator,True,road_accident_te_event_13,5
+RQN-001422,ప్రజల సమాచారం: తూర్పు బైపాస్ దగ్గర కొండ ప్రాంత నివాసంలో అగ్ని ప్రమాదం జరిగినట్లు సమాచారం.,te,Fire,synthetic_scenario_generator,True,fire_te_event_28,6
+RQN-001761,प्राप्त जानकारी: औद्योगिक क्षेत्र के पास ट्रक और कार की टक्कर हुई; एक परिवार घायल हो सकते हैं। स्थान की पुष्टि आवश्यक है।,hi,Road accident,synthetic_scenario_generator,True,road_accident_hi_event_11,1
+RQN-004059,प्राप्त जानकारी: नगरपालिका कार्यालय के पास बाज़ार क्षेत्र में तेज़ तेज़ गति की हवाएँ चल रही हैं।,hi,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_hi_event_28,3
+RQN-000744,Report: Residents report a spreading fire near bus depot. Please review this report.,en,Fire,synthetic_scenario_generator,True,fire_en_event_03,8
+RQN-003543,తదుపరి సమాచారం: పారిశ్రామిక ప్రాంతం ప్రజలు వంతెన రెయిలింగ్ పనిచేయడం లేదని తెలిపారు; రాకపోకలకు ఇబ్బంది కావచ్చు. ఈ నివేదికను పరిశీలించండి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_23,7
+RQN-002669,ప్రజల సమాచారం: నీటి ట్యాంక్ దగ్గర గ్రామ శివారులో ఒకరికి అత్యవసర వైద్య సహాయం అవసరం. మరింత పరిశీలన అవసరం.,te,Medical,synthetic_scenario_generator,True,medical_te_event_04,5
+RQN-004119,అందిన సమాచారం: కేంద్ర బస్ స్టేషన్లో తుఫాను ప్రభావం ఉంది; పడిపోయిన చెట్లు కనిపిస్తోంది.,te,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_te_event_05,7
+RQN-001120,कृपया पुष्टि करें: केंद्रीय बस स्टेशन से धुआँ और लपटें निकल रही हैं; अंदर कई निवासी हो सकते हैं। स्रोत ने आगे की जानकारी माँगी है।,hi,Fire,synthetic_scenario_generator,True,fire_hi_event_20,8
+RQN-004644,निवासियों की सूचना: मुख्य चौराहा के आसपास भूकंप के झटके महसूस होने की सूचना है। आगे जाँच आवश्यक है।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_11,4
+RQN-000370,निवासियों की सूचना: नदी किनारे की कॉलोनी के आसपास टखनों तक भरा पानी भर गया है और यात्री फँसे हो सकते हैं। स्रोत ने आगे की जानकारी माँगी है।,hi,Flood,synthetic_scenario_generator,True,flood_hi_event_17,2
+RQN-002450,निवासियों की सूचना: मुख्य पुल के पास वार्ड 12 में एक व्यक्ति को तुरंत चिकित्सा सहायता चाहिए। स्थान की पुष्टि आवश्यक है।,hi,Medical,synthetic_scenario_generator,True,medical_hi_event_07,2
+RQN-005553,"స్థానిక అప్‌డేట్: గ్రామ శివారుపై మట్టి, రాళ్లు పడ్డాయి; చాలా మంది నివాసితులు రాకపోకలు నిలిచిపోవచ్చు. సమాచారం ఇచ్చినవారు తదుపరి వివరాలు కోరుతున్నారు.",te,Landslide,synthetic_scenario_generator,True,landslide_te_event_05,1
+RQN-003779,Follow-up: A severe storm impact is reported at Market area; blocked access is visible.,en,Cyclone / storm,synthetic_scenario_generator,True,cyclone___storm_en_event_23,3
+RQN-001551,Report: a car and a bus collided near Hillview settlement; a family may be injured. Location needs verification.,en,Road accident,synthetic_scenario_generator,True,road_accident_en_event_14,7
+RQN-003367,దయచేసి నిర్ధారించండి: నీటి ట్యాంక్ దగ్గర కొండ ప్రాంత నివాసంలో విద్యుత్ తీగ దెబ్బతింది. ప్రాంతాన్ని నిర్ధారించాలి.,te,Infrastructure,synthetic_scenario_generator,True,infrastructure_te_event_01,7
+RQN-004757,कृपया पुष्टि करें: सामुदायिक केंद्र के पास केंद्रीय बस स्टेशन में झटके महसूस किए गए; छत को नुकसान की सूचना है। कृपया इस रिपोर्ट की समीक्षा करें।,hi,Earthquake,synthetic_scenario_generator,True,earthquake_hi_event_25,5
+RQN-004858,దయచేసి నిర్ధారించండి: పాఠశాల ప్రాంగణం పరిసరాల్లో భూకంప ప్రకంపనలు వచ్చినట్లు ప్రజలు తెలిపారు. ప్రాంతాన్ని నిర్ధారించాలి.,te,Earthquake,synthetic_scenario_generator,True,earthquake_te_event_08,2
