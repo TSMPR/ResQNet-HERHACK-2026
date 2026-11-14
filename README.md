@@ -77,12 +77,3 @@ The bundled CSV contains fictional demonstration records and approximate demo co
 3. Review predicted category, suggested review priority and explanation.
 4. Review the safety checklist.
 5. Open the dashboard and explain that all displayed records are synthetic.
-
-## Team
-
-Add the actual team member names and roles before submission.
-
-## License
-
-Select a license after confirming rights for all future datasets and assets.
-#
